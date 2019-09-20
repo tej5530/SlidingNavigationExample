@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Wrokspace For Demo\\Sliding menu\\SlidingNavigationExample\\example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "D:\\Wrokspace For Demo\\Sliding menu\\SlidingNavigationExample\\example\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "18,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "619,671",
+                        "endColumns": "50,40",
+                        "endOffsets": "665,707"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "264,315",
+                        "endColumns": "50,40",
+                        "endOffsets": "310,351"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Plutus-Dev\\.gradle\\caches\\transforms-2\\files-2.1\\e3decd5bf9fbc8536b88bb6c57360e20\\design-28.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "356",
+                        "endLines": "10",
+                        "endColumns": "10",
+                        "endOffsets": "523"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Plutus-Dev\\.gradle\\caches\\transforms-2\\files-2.1\\bbf07aa1da9ab954374e693dfcc335b9\\appcompat-v7-28.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
