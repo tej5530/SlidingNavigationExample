@@ -5623,39 +5623,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.jeremyfeinstein.slidingmenu.example:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.jeremyfeinstein.slidingmenu.example:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.jeremyfeinstein.slidingmenu.example:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.jeremyfeinstein.slidingmenu.example:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.jeremyfeinstein.slidingmenu.example:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.sliding.slidingmenu.example:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.sliding.slidingmenu.example:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.sliding.slidingmenu.example:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.sliding.slidingmenu.example:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.sliding.slidingmenu.example:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.jeremyfeinstein.slidingmenu.example:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.jeremyfeinstein.slidingmenu.example:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.jeremyfeinstein.slidingmenu.example:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.jeremyfeinstein.slidingmenu.example:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.sliding.slidingmenu.example:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.sliding.slidingmenu.example:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.sliding.slidingmenu.example:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.sliding.slidingmenu.example:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.jeremyfeinstein.slidingmenu.example:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.jeremyfeinstein.slidingmenu.example:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.jeremyfeinstein.slidingmenu.example:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.jeremyfeinstein.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.jeremyfeinstein.slidingmenu.example:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.jeremyfeinstein.slidingmenu.example:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.jeremyfeinstein.slidingmenu.example:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.jeremyfeinstein.slidingmenu.example:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.jeremyfeinstein.slidingmenu.example:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.jeremyfeinstein.slidingmenu.example:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.jeremyfeinstein.slidingmenu.example:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.sliding.slidingmenu.example:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.sliding.slidingmenu.example:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.sliding.slidingmenu.example:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.sliding.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.sliding.slidingmenu.example:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.sliding.slidingmenu.example:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.sliding.slidingmenu.example:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.sliding.slidingmenu.example:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.sliding.slidingmenu.example:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.sliding.slidingmenu.example:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.sliding.slidingmenu.example:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.jeremyfeinstein.slidingmenu.example:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.jeremyfeinstein.slidingmenu.example:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.jeremyfeinstein.slidingmenu.example:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.sliding.slidingmenu.example:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.sliding.slidingmenu.example:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.sliding.slidingmenu.example:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.jeremyfeinstein.slidingmenu.example:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.jeremyfeinstein.slidingmenu.example:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.jeremyfeinstein.slidingmenu.example:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.jeremyfeinstein.slidingmenu.example:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.jeremyfeinstein.slidingmenu.example:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.jeremyfeinstein.slidingmenu.example:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.sliding.slidingmenu.example:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.sliding.slidingmenu.example:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.sliding.slidingmenu.example:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.sliding.slidingmenu.example:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.sliding.slidingmenu.example:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.sliding.slidingmenu.example:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -5707,7 +5707,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:background
+     * @attr name com.sliding.slidingmenu.example:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -5723,7 +5723,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundSplit
+     * @attr name com.sliding.slidingmenu.example:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -5739,7 +5739,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundStacked
+     * @attr name com.sliding.slidingmenu.example:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -5754,7 +5754,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetEnd
+     * @attr name com.sliding.slidingmenu.example:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -5769,7 +5769,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetEndWithActions
+     * @attr name com.sliding.slidingmenu.example:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -5784,7 +5784,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetLeft
+     * @attr name com.sliding.slidingmenu.example:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -5799,7 +5799,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetRight
+     * @attr name com.sliding.slidingmenu.example:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -5814,7 +5814,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetStart
+     * @attr name com.sliding.slidingmenu.example:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -5829,7 +5829,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetStartWithNavigation
+     * @attr name com.sliding.slidingmenu.example:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -5842,7 +5842,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:customNavigationLayout
+     * @attr name com.sliding.slidingmenu.example:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -5865,7 +5865,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:displayOptions
+     * @attr name com.sliding.slidingmenu.example:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -5878,7 +5878,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:divider
+     * @attr name com.sliding.slidingmenu.example:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -5892,7 +5892,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:elevation
+     * @attr name com.sliding.slidingmenu.example:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -5906,7 +5906,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:height
+     * @attr name com.sliding.slidingmenu.example:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -5917,7 +5917,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:hideOnContentScroll
+     * @attr name com.sliding.slidingmenu.example:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -5930,7 +5930,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:homeAsUpIndicator
+     * @attr name com.sliding.slidingmenu.example:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -5943,7 +5943,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:homeLayout
+     * @attr name com.sliding.slidingmenu.example:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -5956,7 +5956,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:icon
+     * @attr name com.sliding.slidingmenu.example:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -5969,7 +5969,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:indeterminateProgressStyle
+     * @attr name com.sliding.slidingmenu.example:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -5984,7 +5984,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemPadding
+     * @attr name com.sliding.slidingmenu.example:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -5997,7 +5997,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:logo
+     * @attr name com.sliding.slidingmenu.example:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -6016,7 +6016,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:navigationMode
+     * @attr name com.sliding.slidingmenu.example:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -6030,7 +6030,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:popupTheme
+     * @attr name com.sliding.slidingmenu.example:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -6044,7 +6044,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:progressBarPadding
+     * @attr name com.sliding.slidingmenu.example:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -6057,7 +6057,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:progressBarStyle
+     * @attr name com.sliding.slidingmenu.example:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -6068,7 +6068,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:subtitle
+     * @attr name com.sliding.slidingmenu.example:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -6081,7 +6081,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:subtitleTextStyle
+     * @attr name com.sliding.slidingmenu.example:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -6092,7 +6092,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:title
+     * @attr name com.sliding.slidingmenu.example:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -6105,7 +6105,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleTextStyle
+     * @attr name com.sliding.slidingmenu.example:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -6187,12 +6187,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.jeremyfeinstein.slidingmenu.example:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.jeremyfeinstein.slidingmenu.example:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.jeremyfeinstein.slidingmenu.example:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.jeremyfeinstein.slidingmenu.example:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.jeremyfeinstein.slidingmenu.example:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.jeremyfeinstein.slidingmenu.example:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.sliding.slidingmenu.example:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.sliding.slidingmenu.example:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.sliding.slidingmenu.example:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.sliding.slidingmenu.example:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.sliding.slidingmenu.example:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.sliding.slidingmenu.example:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -6215,7 +6215,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:background
+     * @attr name com.sliding.slidingmenu.example:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -6231,7 +6231,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundSplit
+     * @attr name com.sliding.slidingmenu.example:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -6244,7 +6244,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeItemLayout
+     * @attr name com.sliding.slidingmenu.example:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -6258,7 +6258,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:height
+     * @attr name com.sliding.slidingmenu.example:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -6271,7 +6271,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:subtitleTextStyle
+     * @attr name com.sliding.slidingmenu.example:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -6284,7 +6284,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleTextStyle
+     * @attr name com.sliding.slidingmenu.example:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -6294,8 +6294,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.jeremyfeinstein.slidingmenu.example:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.jeremyfeinstein.slidingmenu.example:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.sliding.slidingmenu.example:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.sliding.slidingmenu.example:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -6317,7 +6317,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expandActivityOverflowButtonDrawable
+     * @attr name com.sliding.slidingmenu.example:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -6328,7 +6328,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:initialActivityCount
+     * @attr name com.sliding.slidingmenu.example:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -6339,13 +6339,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.jeremyfeinstein.slidingmenu.example:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.jeremyfeinstein.slidingmenu.example:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.jeremyfeinstein.slidingmenu.example:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.jeremyfeinstein.slidingmenu.example:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.jeremyfeinstein.slidingmenu.example:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.jeremyfeinstein.slidingmenu.example:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.jeremyfeinstein.slidingmenu.example:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.sliding.slidingmenu.example:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.sliding.slidingmenu.example:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.sliding.slidingmenu.example:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.sliding.slidingmenu.example:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.sliding.slidingmenu.example:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.sliding.slidingmenu.example:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.sliding.slidingmenu.example:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -6373,7 +6373,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6382,11 +6382,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonIconDimen
+     * @attr name com.sliding.slidingmenu.example:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6394,11 +6394,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonPanelSideLayout
+     * @attr name com.sliding.slidingmenu.example:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6406,11 +6406,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listItemLayout
+     * @attr name com.sliding.slidingmenu.example:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6418,11 +6418,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listLayout
+     * @attr name com.sliding.slidingmenu.example:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6430,21 +6430,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:multiChoiceItemLayout
+     * @attr name com.sliding.slidingmenu.example:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:showTitle
+     * @attr name com.sliding.slidingmenu.example:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6452,7 +6452,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:singleChoiceItemLayout
+     * @attr name com.sliding.slidingmenu.example:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -6678,9 +6678,9 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.jeremyfeinstein.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.jeremyfeinstein.slidingmenu.example:expanded}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.jeremyfeinstein.slidingmenu.example:liftOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.sliding.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.sliding.slidingmenu.example:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.sliding.slidingmenu.example:liftOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -6739,27 +6739,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:elevation
+     * @attr name com.sliding.slidingmenu.example:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expanded
+     * @attr name com.sliding.slidingmenu.example:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:liftOnScroll
+     * @attr name com.sliding.slidingmenu.example:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -6769,10 +6769,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.jeremyfeinstein.slidingmenu.example:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.jeremyfeinstein.slidingmenu.example:state_collapsible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.jeremyfeinstein.slidingmenu.example:state_liftable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.jeremyfeinstein.slidingmenu.example:state_lifted}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.sliding.slidingmenu.example:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.sliding.slidingmenu.example:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.sliding.slidingmenu.example:state_liftable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.sliding.slidingmenu.example:state_lifted}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -6783,43 +6783,43 @@ public final class R {
       0x7f040173, 0x7f040174, 0x7f040175, 0x7f040176
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:state_collapsed
+     * @attr name com.sliding.slidingmenu.example:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:state_collapsible
+     * @attr name com.sliding.slidingmenu.example:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:state_liftable
+     * @attr name com.sliding.slidingmenu.example:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:state_lifted
+     * @attr name com.sliding.slidingmenu.example:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -6829,8 +6829,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.jeremyfeinstein.slidingmenu.example:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.jeremyfeinstein.slidingmenu.example:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.sliding.slidingmenu.example:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.sliding.slidingmenu.example:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -6839,7 +6839,7 @@ public final class R {
       0x7f040118, 0x7f040119
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6856,11 +6856,11 @@ public final class R {
      * <tr><td>snapMargins</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_scrollFlags
+     * @attr name com.sliding.slidingmenu.example:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6868,7 +6868,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_scrollInterpolator
+     * @attr name com.sliding.slidingmenu.example:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -6879,9 +6879,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.jeremyfeinstein.slidingmenu.example:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.jeremyfeinstein.slidingmenu.example:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.jeremyfeinstein.slidingmenu.example:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.sliding.slidingmenu.example:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.sliding.slidingmenu.example:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.sliding.slidingmenu.example:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -6917,7 +6917,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:srcCompat
+     * @attr name com.sliding.slidingmenu.example:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -6929,7 +6929,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tint
+     * @attr name com.sliding.slidingmenu.example:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -6956,7 +6956,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tintMode
+     * @attr name com.sliding.slidingmenu.example:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -6967,9 +6967,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.jeremyfeinstein.slidingmenu.example:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.jeremyfeinstein.slidingmenu.example:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.jeremyfeinstein.slidingmenu.example:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.sliding.slidingmenu.example:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.sliding.slidingmenu.example:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.sliding.slidingmenu.example:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -7001,7 +7001,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tickMark
+     * @attr name com.sliding.slidingmenu.example:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -7013,7 +7013,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tickMarkTint
+     * @attr name com.sliding.slidingmenu.example:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -7040,7 +7040,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tickMarkTintMode
+     * @attr name com.sliding.slidingmenu.example:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -7180,18 +7180,18 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.jeremyfeinstein.slidingmenu.example:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.jeremyfeinstein.slidingmenu.example:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.jeremyfeinstein.slidingmenu.example:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.sliding.slidingmenu.example:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.sliding.slidingmenu.example:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.sliding.slidingmenu.example:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.jeremyfeinstein.slidingmenu.example:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.sliding.slidingmenu.example:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.jeremyfeinstein.slidingmenu.example:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.jeremyfeinstein.slidingmenu.example:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.jeremyfeinstein.slidingmenu.example:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.jeremyfeinstein.slidingmenu.example:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.jeremyfeinstein.slidingmenu.example:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.jeremyfeinstein.slidingmenu.example:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.sliding.slidingmenu.example:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.sliding.slidingmenu.example:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.sliding.slidingmenu.example:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.sliding.slidingmenu.example:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.sliding.slidingmenu.example:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.sliding.slidingmenu.example:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -7233,7 +7233,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:autoSizeMaxTextSize
+     * @attr name com.sliding.slidingmenu.example:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -7247,7 +7247,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:autoSizeMinTextSize
+     * @attr name com.sliding.slidingmenu.example:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -7262,7 +7262,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:autoSizePresetSizes
+     * @attr name com.sliding.slidingmenu.example:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -7278,7 +7278,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:autoSizeStepGranularity
+     * @attr name com.sliding.slidingmenu.example:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -7298,7 +7298,7 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:autoSizeTextType
+     * @attr name com.sliding.slidingmenu.example:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
@@ -7313,7 +7313,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:firstBaselineToTopHeight
+     * @attr name com.sliding.slidingmenu.example:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
@@ -7324,7 +7324,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontFamily
+     * @attr name com.sliding.slidingmenu.example:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
@@ -7339,7 +7339,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:lastBaselineToBottomHeight
+     * @attr name com.sliding.slidingmenu.example:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
@@ -7354,7 +7354,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:lineHeight
+     * @attr name com.sliding.slidingmenu.example:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
@@ -7369,7 +7369,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAllCaps
+     * @attr name com.sliding.slidingmenu.example:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -7381,142 +7381,142 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.jeremyfeinstein.slidingmenu.example:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.jeremyfeinstein.slidingmenu.example:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.jeremyfeinstein.slidingmenu.example:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.sliding.slidingmenu.example:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.sliding.slidingmenu.example:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.sliding.slidingmenu.example:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.jeremyfeinstein.slidingmenu.example:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.sliding.slidingmenu.example:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.jeremyfeinstein.slidingmenu.example:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.jeremyfeinstein.slidingmenu.example:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.jeremyfeinstein.slidingmenu.example:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.jeremyfeinstein.slidingmenu.example:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.jeremyfeinstein.slidingmenu.example:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.jeremyfeinstein.slidingmenu.example:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.sliding.slidingmenu.example:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.sliding.slidingmenu.example:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.sliding.slidingmenu.example:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.sliding.slidingmenu.example:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.sliding.slidingmenu.example:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.sliding.slidingmenu.example:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.jeremyfeinstein.slidingmenu.example:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.sliding.slidingmenu.example:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.jeremyfeinstein.slidingmenu.example:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.jeremyfeinstein.slidingmenu.example:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.jeremyfeinstein.slidingmenu.example:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.sliding.slidingmenu.example:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.sliding.slidingmenu.example:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.sliding.slidingmenu.example:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.jeremyfeinstein.slidingmenu.example:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.jeremyfeinstein.slidingmenu.example:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.jeremyfeinstein.slidingmenu.example:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.jeremyfeinstein.slidingmenu.example:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.jeremyfeinstein.slidingmenu.example:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.jeremyfeinstein.slidingmenu.example:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.jeremyfeinstein.slidingmenu.example:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.jeremyfeinstein.slidingmenu.example:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.jeremyfeinstein.slidingmenu.example:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.jeremyfeinstein.slidingmenu.example:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.jeremyfeinstein.slidingmenu.example:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.jeremyfeinstein.slidingmenu.example:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.jeremyfeinstein.slidingmenu.example:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.jeremyfeinstein.slidingmenu.example:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.jeremyfeinstein.slidingmenu.example:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.jeremyfeinstein.slidingmenu.example:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.jeremyfeinstein.slidingmenu.example:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.jeremyfeinstein.slidingmenu.example:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.jeremyfeinstein.slidingmenu.example:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.jeremyfeinstein.slidingmenu.example:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.jeremyfeinstein.slidingmenu.example:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.jeremyfeinstein.slidingmenu.example:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.jeremyfeinstein.slidingmenu.example:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.jeremyfeinstein.slidingmenu.example:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.jeremyfeinstein.slidingmenu.example:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.jeremyfeinstein.slidingmenu.example:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.jeremyfeinstein.slidingmenu.example:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.jeremyfeinstein.slidingmenu.example:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.jeremyfeinstein.slidingmenu.example:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.jeremyfeinstein.slidingmenu.example:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.jeremyfeinstein.slidingmenu.example:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.jeremyfeinstein.slidingmenu.example:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.jeremyfeinstein.slidingmenu.example:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.jeremyfeinstein.slidingmenu.example:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.jeremyfeinstein.slidingmenu.example:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.jeremyfeinstein.slidingmenu.example:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.jeremyfeinstein.slidingmenu.example:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.jeremyfeinstein.slidingmenu.example:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.jeremyfeinstein.slidingmenu.example:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.sliding.slidingmenu.example:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.sliding.slidingmenu.example:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.sliding.slidingmenu.example:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.sliding.slidingmenu.example:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.sliding.slidingmenu.example:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.sliding.slidingmenu.example:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.sliding.slidingmenu.example:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.sliding.slidingmenu.example:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.sliding.slidingmenu.example:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.sliding.slidingmenu.example:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.sliding.slidingmenu.example:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.sliding.slidingmenu.example:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.sliding.slidingmenu.example:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.sliding.slidingmenu.example:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.sliding.slidingmenu.example:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.sliding.slidingmenu.example:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.sliding.slidingmenu.example:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.sliding.slidingmenu.example:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.sliding.slidingmenu.example:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.sliding.slidingmenu.example:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.sliding.slidingmenu.example:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.sliding.slidingmenu.example:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.sliding.slidingmenu.example:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.sliding.slidingmenu.example:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.sliding.slidingmenu.example:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.sliding.slidingmenu.example:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.sliding.slidingmenu.example:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.sliding.slidingmenu.example:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.sliding.slidingmenu.example:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.sliding.slidingmenu.example:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.sliding.slidingmenu.example:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.sliding.slidingmenu.example:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.sliding.slidingmenu.example:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.sliding.slidingmenu.example:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.sliding.slidingmenu.example:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.sliding.slidingmenu.example:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.sliding.slidingmenu.example:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.sliding.slidingmenu.example:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.sliding.slidingmenu.example:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.jeremyfeinstein.slidingmenu.example:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.jeremyfeinstein.slidingmenu.example:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.jeremyfeinstein.slidingmenu.example:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.jeremyfeinstein.slidingmenu.example:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.jeremyfeinstein.slidingmenu.example:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.jeremyfeinstein.slidingmenu.example:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.jeremyfeinstein.slidingmenu.example:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.jeremyfeinstein.slidingmenu.example:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.jeremyfeinstein.slidingmenu.example:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.jeremyfeinstein.slidingmenu.example:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.jeremyfeinstein.slidingmenu.example:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.jeremyfeinstein.slidingmenu.example:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.jeremyfeinstein.slidingmenu.example:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.jeremyfeinstein.slidingmenu.example:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.jeremyfeinstein.slidingmenu.example:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.jeremyfeinstein.slidingmenu.example:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.jeremyfeinstein.slidingmenu.example:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.jeremyfeinstein.slidingmenu.example:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.jeremyfeinstein.slidingmenu.example:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.jeremyfeinstein.slidingmenu.example:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.jeremyfeinstein.slidingmenu.example:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.jeremyfeinstein.slidingmenu.example:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.jeremyfeinstein.slidingmenu.example:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.jeremyfeinstein.slidingmenu.example:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.jeremyfeinstein.slidingmenu.example:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.jeremyfeinstein.slidingmenu.example:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.jeremyfeinstein.slidingmenu.example:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.jeremyfeinstein.slidingmenu.example:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.jeremyfeinstein.slidingmenu.example:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.jeremyfeinstein.slidingmenu.example:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.jeremyfeinstein.slidingmenu.example:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.jeremyfeinstein.slidingmenu.example:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.jeremyfeinstein.slidingmenu.example:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.jeremyfeinstein.slidingmenu.example:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.jeremyfeinstein.slidingmenu.example:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.jeremyfeinstein.slidingmenu.example:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.jeremyfeinstein.slidingmenu.example:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.sliding.slidingmenu.example:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.sliding.slidingmenu.example:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.sliding.slidingmenu.example:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.sliding.slidingmenu.example:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.sliding.slidingmenu.example:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.sliding.slidingmenu.example:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.sliding.slidingmenu.example:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.sliding.slidingmenu.example:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.sliding.slidingmenu.example:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.sliding.slidingmenu.example:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.sliding.slidingmenu.example:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.sliding.slidingmenu.example:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.sliding.slidingmenu.example:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.sliding.slidingmenu.example:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.sliding.slidingmenu.example:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.sliding.slidingmenu.example:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.sliding.slidingmenu.example:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.sliding.slidingmenu.example:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.sliding.slidingmenu.example:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.sliding.slidingmenu.example:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.sliding.slidingmenu.example:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.sliding.slidingmenu.example:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.sliding.slidingmenu.example:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.sliding.slidingmenu.example:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.sliding.slidingmenu.example:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.sliding.slidingmenu.example:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.sliding.slidingmenu.example:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.sliding.slidingmenu.example:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.sliding.slidingmenu.example:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.sliding.slidingmenu.example:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.sliding.slidingmenu.example:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.sliding.slidingmenu.example:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.sliding.slidingmenu.example:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.sliding.slidingmenu.example:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.sliding.slidingmenu.example:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.sliding.slidingmenu.example:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.sliding.slidingmenu.example:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.jeremyfeinstein.slidingmenu.example:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.jeremyfeinstein.slidingmenu.example:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.jeremyfeinstein.slidingmenu.example:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.jeremyfeinstein.slidingmenu.example:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.jeremyfeinstein.slidingmenu.example:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.jeremyfeinstein.slidingmenu.example:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.jeremyfeinstein.slidingmenu.example:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.jeremyfeinstein.slidingmenu.example:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.jeremyfeinstein.slidingmenu.example:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.jeremyfeinstein.slidingmenu.example:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.jeremyfeinstein.slidingmenu.example:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.jeremyfeinstein.slidingmenu.example:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.jeremyfeinstein.slidingmenu.example:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.jeremyfeinstein.slidingmenu.example:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.jeremyfeinstein.slidingmenu.example:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.jeremyfeinstein.slidingmenu.example:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.jeremyfeinstein.slidingmenu.example:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.jeremyfeinstein.slidingmenu.example:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.jeremyfeinstein.slidingmenu.example:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.jeremyfeinstein.slidingmenu.example:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.sliding.slidingmenu.example:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.sliding.slidingmenu.example:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.sliding.slidingmenu.example:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.sliding.slidingmenu.example:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.sliding.slidingmenu.example:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.sliding.slidingmenu.example:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.sliding.slidingmenu.example:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.sliding.slidingmenu.example:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.sliding.slidingmenu.example:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.sliding.slidingmenu.example:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.sliding.slidingmenu.example:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.sliding.slidingmenu.example:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.sliding.slidingmenu.example:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.sliding.slidingmenu.example:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.sliding.slidingmenu.example:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.sliding.slidingmenu.example:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.sliding.slidingmenu.example:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.sliding.slidingmenu.example:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.sliding.slidingmenu.example:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.sliding.slidingmenu.example:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.jeremyfeinstein.slidingmenu.example:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.sliding.slidingmenu.example:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.jeremyfeinstein.slidingmenu.example:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.sliding.slidingmenu.example:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.jeremyfeinstein.slidingmenu.example:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.sliding.slidingmenu.example:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.jeremyfeinstein.slidingmenu.example:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.sliding.slidingmenu.example:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.jeremyfeinstein.slidingmenu.example:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.sliding.slidingmenu.example:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.jeremyfeinstein.slidingmenu.example:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.sliding.slidingmenu.example:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.jeremyfeinstein.slidingmenu.example:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.sliding.slidingmenu.example:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.jeremyfeinstein.slidingmenu.example:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.sliding.slidingmenu.example:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.jeremyfeinstein.slidingmenu.example:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.sliding.slidingmenu.example:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -7705,7 +7705,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarDivider
+     * @attr name com.sliding.slidingmenu.example:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -7718,7 +7718,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarItemBackground
+     * @attr name com.sliding.slidingmenu.example:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -7732,7 +7732,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarPopupTheme
+     * @attr name com.sliding.slidingmenu.example:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -7755,7 +7755,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarSize
+     * @attr name com.sliding.slidingmenu.example:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -7771,7 +7771,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarSplitStyle
+     * @attr name com.sliding.slidingmenu.example:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -7784,11 +7784,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarStyle
+     * @attr name com.sliding.slidingmenu.example:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7796,7 +7796,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarTabBarStyle
+     * @attr name com.sliding.slidingmenu.example:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -7809,11 +7809,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarTabStyle
+     * @attr name com.sliding.slidingmenu.example:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7821,7 +7821,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarTabTextStyle
+     * @attr name com.sliding.slidingmenu.example:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -7836,7 +7836,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarTheme
+     * @attr name com.sliding.slidingmenu.example:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -7855,7 +7855,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionBarWidgetTheme
+     * @attr name com.sliding.slidingmenu.example:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -7868,7 +7868,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionButtonStyle
+     * @attr name com.sliding.slidingmenu.example:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -7881,7 +7881,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionDropDownStyle
+     * @attr name com.sliding.slidingmenu.example:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -7895,7 +7895,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionMenuTextAppearance
+     * @attr name com.sliding.slidingmenu.example:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -7911,7 +7911,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionMenuTextColor
+     * @attr name com.sliding.slidingmenu.example:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -7924,11 +7924,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeBackground
+     * @attr name com.sliding.slidingmenu.example:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7936,7 +7936,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeCloseButtonStyle
+     * @attr name com.sliding.slidingmenu.example:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -7949,7 +7949,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeCloseDrawable
+     * @attr name com.sliding.slidingmenu.example:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -7962,7 +7962,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeCopyDrawable
+     * @attr name com.sliding.slidingmenu.example:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -7975,7 +7975,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeCutDrawable
+     * @attr name com.sliding.slidingmenu.example:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -7988,7 +7988,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeFindDrawable
+     * @attr name com.sliding.slidingmenu.example:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -8001,7 +8001,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModePasteDrawable
+     * @attr name com.sliding.slidingmenu.example:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -8014,7 +8014,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModePopupWindowStyle
+     * @attr name com.sliding.slidingmenu.example:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -8027,7 +8027,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeSelectAllDrawable
+     * @attr name com.sliding.slidingmenu.example:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -8040,7 +8040,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeShareDrawable
+     * @attr name com.sliding.slidingmenu.example:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -8053,11 +8053,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeSplitBackground
+     * @attr name com.sliding.slidingmenu.example:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8065,7 +8065,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeStyle
+     * @attr name com.sliding.slidingmenu.example:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -8078,11 +8078,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionModeWebSearchDrawable
+     * @attr name com.sliding.slidingmenu.example:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8090,11 +8090,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionOverflowButtonStyle
+     * @attr name com.sliding.slidingmenu.example:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8102,7 +8102,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionOverflowMenuStyle
+     * @attr name com.sliding.slidingmenu.example:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -8115,11 +8115,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:activityChooserViewStyle
+     * @attr name com.sliding.slidingmenu.example:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8127,21 +8127,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:alertDialogButtonGroupStyle
+     * @attr name com.sliding.slidingmenu.example:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:alertDialogCenterButtons
+     * @attr name com.sliding.slidingmenu.example:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8149,7 +8149,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:alertDialogStyle
+     * @attr name com.sliding.slidingmenu.example:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -8162,7 +8162,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:alertDialogTheme
+     * @attr name com.sliding.slidingmenu.example:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -8175,7 +8175,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:autoCompleteTextViewStyle
+     * @attr name com.sliding.slidingmenu.example:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -8188,7 +8188,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:borderlessButtonStyle
+     * @attr name com.sliding.slidingmenu.example:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -8201,7 +8201,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonBarButtonStyle
+     * @attr name com.sliding.slidingmenu.example:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -8214,7 +8214,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonBarNegativeButtonStyle
+     * @attr name com.sliding.slidingmenu.example:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -8227,7 +8227,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonBarNeutralButtonStyle
+     * @attr name com.sliding.slidingmenu.example:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -8240,7 +8240,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonBarPositiveButtonStyle
+     * @attr name com.sliding.slidingmenu.example:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -8253,7 +8253,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonBarStyle
+     * @attr name com.sliding.slidingmenu.example:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -8266,7 +8266,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonStyle
+     * @attr name com.sliding.slidingmenu.example:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -8279,7 +8279,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonStyleSmall
+     * @attr name com.sliding.slidingmenu.example:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -8292,7 +8292,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:checkboxStyle
+     * @attr name com.sliding.slidingmenu.example:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -8305,7 +8305,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:checkedTextViewStyle
+     * @attr name com.sliding.slidingmenu.example:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -8318,7 +8318,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorAccent
+     * @attr name com.sliding.slidingmenu.example:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -8330,7 +8330,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorBackgroundFloating
+     * @attr name com.sliding.slidingmenu.example:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -8342,7 +8342,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorButtonNormal
+     * @attr name com.sliding.slidingmenu.example:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -8354,7 +8354,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorControlActivated
+     * @attr name com.sliding.slidingmenu.example:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -8366,7 +8366,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorControlHighlight
+     * @attr name com.sliding.slidingmenu.example:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -8378,7 +8378,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorControlNormal
+     * @attr name com.sliding.slidingmenu.example:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -8395,7 +8395,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorError
+     * @attr name com.sliding.slidingmenu.example:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -8408,7 +8408,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorPrimary
+     * @attr name com.sliding.slidingmenu.example:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -8421,7 +8421,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorPrimaryDark
+     * @attr name com.sliding.slidingmenu.example:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -8433,7 +8433,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorSwitchThumbNormal
+     * @attr name com.sliding.slidingmenu.example:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -8446,7 +8446,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:controlBackground
+     * @attr name com.sliding.slidingmenu.example:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -8460,7 +8460,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:dialogCornerRadius
+     * @attr name com.sliding.slidingmenu.example:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -8474,7 +8474,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:dialogPreferredPadding
+     * @attr name com.sliding.slidingmenu.example:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -8487,7 +8487,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:dialogTheme
+     * @attr name com.sliding.slidingmenu.example:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -8500,7 +8500,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:dividerHorizontal
+     * @attr name com.sliding.slidingmenu.example:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -8513,7 +8513,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:dividerVertical
+     * @attr name com.sliding.slidingmenu.example:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -8526,7 +8526,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:dropDownListViewStyle
+     * @attr name com.sliding.slidingmenu.example:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -8540,7 +8540,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:dropdownListPreferredItemHeight
+     * @attr name com.sliding.slidingmenu.example:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -8553,7 +8553,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:editTextBackground
+     * @attr name com.sliding.slidingmenu.example:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -8569,7 +8569,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:editTextColor
+     * @attr name com.sliding.slidingmenu.example:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -8582,7 +8582,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:editTextStyle
+     * @attr name com.sliding.slidingmenu.example:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -8595,7 +8595,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:homeAsUpIndicator
+     * @attr name com.sliding.slidingmenu.example:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -8608,7 +8608,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:imageButtonStyle
+     * @attr name com.sliding.slidingmenu.example:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -8621,7 +8621,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listChoiceBackgroundIndicator
+     * @attr name com.sliding.slidingmenu.example:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -8634,7 +8634,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listDividerAlertDialog
+     * @attr name com.sliding.slidingmenu.example:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
@@ -8647,11 +8647,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listMenuViewStyle
+     * @attr name com.sliding.slidingmenu.example:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8659,7 +8659,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listPopupWindowStyle
+     * @attr name com.sliding.slidingmenu.example:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
@@ -8673,7 +8673,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listPreferredItemHeight
+     * @attr name com.sliding.slidingmenu.example:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
@@ -8687,7 +8687,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listPreferredItemHeightLarge
+     * @attr name com.sliding.slidingmenu.example:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
@@ -8701,7 +8701,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listPreferredItemHeightSmall
+     * @attr name com.sliding.slidingmenu.example:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
@@ -8715,7 +8715,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listPreferredItemPaddingLeft
+     * @attr name com.sliding.slidingmenu.example:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
@@ -8729,7 +8729,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:listPreferredItemPaddingRight
+     * @attr name com.sliding.slidingmenu.example:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
@@ -8742,7 +8742,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:panelBackground
+     * @attr name com.sliding.slidingmenu.example:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
@@ -8755,7 +8755,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:panelMenuListTheme
+     * @attr name com.sliding.slidingmenu.example:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
@@ -8769,7 +8769,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:panelMenuListWidth
+     * @attr name com.sliding.slidingmenu.example:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
@@ -8782,7 +8782,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:popupMenuStyle
+     * @attr name com.sliding.slidingmenu.example:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
@@ -8795,7 +8795,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:popupWindowStyle
+     * @attr name com.sliding.slidingmenu.example:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
@@ -8808,7 +8808,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:radioButtonStyle
+     * @attr name com.sliding.slidingmenu.example:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
@@ -8821,7 +8821,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:ratingBarStyle
+     * @attr name com.sliding.slidingmenu.example:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
@@ -8834,7 +8834,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:ratingBarStyleIndicator
+     * @attr name com.sliding.slidingmenu.example:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
@@ -8847,7 +8847,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:ratingBarStyleSmall
+     * @attr name com.sliding.slidingmenu.example:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
@@ -8860,7 +8860,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:searchViewStyle
+     * @attr name com.sliding.slidingmenu.example:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
@@ -8873,7 +8873,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:seekBarStyle
+     * @attr name com.sliding.slidingmenu.example:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
@@ -8888,7 +8888,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:selectableItemBackground
+     * @attr name com.sliding.slidingmenu.example:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
@@ -8901,7 +8901,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:selectableItemBackgroundBorderless
+     * @attr name com.sliding.slidingmenu.example:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
@@ -8914,7 +8914,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:spinnerDropDownItemStyle
+     * @attr name com.sliding.slidingmenu.example:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
@@ -8927,7 +8927,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:spinnerStyle
+     * @attr name com.sliding.slidingmenu.example:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
@@ -8940,7 +8940,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:switchStyle
+     * @attr name com.sliding.slidingmenu.example:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
@@ -8953,7 +8953,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceLargePopupMenu
+     * @attr name com.sliding.slidingmenu.example:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
@@ -8966,7 +8966,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceListItem
+     * @attr name com.sliding.slidingmenu.example:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
@@ -8979,7 +8979,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceListItemSecondary
+     * @attr name com.sliding.slidingmenu.example:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
@@ -8992,7 +8992,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceListItemSmall
+     * @attr name com.sliding.slidingmenu.example:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
@@ -9005,7 +9005,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearancePopupMenuHeader
+     * @attr name com.sliding.slidingmenu.example:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
@@ -9018,7 +9018,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceSearchResultSubtitle
+     * @attr name com.sliding.slidingmenu.example:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
@@ -9031,7 +9031,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceSearchResultTitle
+     * @attr name com.sliding.slidingmenu.example:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
@@ -9044,7 +9044,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceSmallPopupMenu
+     * @attr name com.sliding.slidingmenu.example:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
@@ -9060,7 +9060,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textColorAlertDialogListItem
+     * @attr name com.sliding.slidingmenu.example:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
@@ -9076,7 +9076,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textColorSearchUrl
+     * @attr name com.sliding.slidingmenu.example:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
@@ -9089,7 +9089,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:toolbarNavigationButtonStyle
+     * @attr name com.sliding.slidingmenu.example:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
@@ -9102,7 +9102,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:toolbarStyle
+     * @attr name com.sliding.slidingmenu.example:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
@@ -9118,7 +9118,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tooltipForegroundColor
+     * @attr name com.sliding.slidingmenu.example:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
@@ -9131,17 +9131,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tooltipFrameBackground
+     * @attr name com.sliding.slidingmenu.example:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:viewInflaterClass
+     * @attr name com.sliding.slidingmenu.example:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
@@ -9153,7 +9153,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowActionBar
+     * @attr name com.sliding.slidingmenu.example:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
@@ -9166,7 +9166,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowActionBarOverlay
+     * @attr name com.sliding.slidingmenu.example:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
@@ -9178,7 +9178,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowActionModeOverlay
+     * @attr name com.sliding.slidingmenu.example:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
@@ -9198,7 +9198,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowFixedHeightMajor
+     * @attr name com.sliding.slidingmenu.example:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
@@ -9218,7 +9218,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowFixedHeightMinor
+     * @attr name com.sliding.slidingmenu.example:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
@@ -9238,7 +9238,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowFixedWidthMajor
+     * @attr name com.sliding.slidingmenu.example:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
@@ -9258,7 +9258,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowFixedWidthMinor
+     * @attr name com.sliding.slidingmenu.example:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
@@ -9279,7 +9279,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowMinWidthMajor
+     * @attr name com.sliding.slidingmenu.example:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
@@ -9300,7 +9300,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowMinWidthMinor
+     * @attr name com.sliding.slidingmenu.example:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
@@ -9311,7 +9311,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:windowNoTitle
+     * @attr name com.sliding.slidingmenu.example:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -9321,12 +9321,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.jeremyfeinstein.slidingmenu.example:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.jeremyfeinstein.slidingmenu.example:fabAlignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.jeremyfeinstein.slidingmenu.example:fabCradleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.jeremyfeinstein.slidingmenu.example:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.jeremyfeinstein.slidingmenu.example:fabCradleVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.jeremyfeinstein.slidingmenu.example:hideOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.sliding.slidingmenu.example:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.sliding.slidingmenu.example:fabAlignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.sliding.slidingmenu.example:fabCradleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.sliding.slidingmenu.example:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.sliding.slidingmenu.example:fabCradleVerticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.sliding.slidingmenu.example:hideOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_fabAlignmentMode
@@ -9348,11 +9348,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundTint
+     * @attr name com.sliding.slidingmenu.example:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9365,11 +9365,11 @@ public final class R {
      * <tr><td>end</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fabAlignmentMode
+     * @attr name com.sliding.slidingmenu.example:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9378,11 +9378,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fabCradleMargin
+     * @attr name com.sliding.slidingmenu.example:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9391,11 +9391,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fabCradleRoundedCornerRadius
+     * @attr name com.sliding.slidingmenu.example:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9404,17 +9404,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fabCradleVerticalOffset
+     * @attr name com.sliding.slidingmenu.example:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:hideOnScroll
+     * @attr name com.sliding.slidingmenu.example:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=5;
     /**
@@ -9424,16 +9424,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.jeremyfeinstein.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.jeremyfeinstein.slidingmenu.example:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.jeremyfeinstein.slidingmenu.example:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.jeremyfeinstein.slidingmenu.example:itemIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.jeremyfeinstein.slidingmenu.example:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.jeremyfeinstein.slidingmenu.example:itemTextAppearanceActive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.jeremyfeinstein.slidingmenu.example:itemTextAppearanceInactive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.jeremyfeinstein.slidingmenu.example:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.jeremyfeinstein.slidingmenu.example:labelVisibilityMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.jeremyfeinstein.slidingmenu.example:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.sliding.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.sliding.slidingmenu.example:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.sliding.slidingmenu.example:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.sliding.slidingmenu.example:itemIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.sliding.slidingmenu.example:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.sliding.slidingmenu.example:itemTextAppearanceActive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.sliding.slidingmenu.example:itemTextAppearanceInactive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.sliding.slidingmenu.example:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.sliding.slidingmenu.example:labelVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.sliding.slidingmenu.example:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -9462,11 +9462,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:elevation
+     * @attr name com.sliding.slidingmenu.example:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9474,21 +9474,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemBackground
+     * @attr name com.sliding.slidingmenu.example:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemHorizontalTranslationEnabled
+     * @attr name com.sliding.slidingmenu.example:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9497,22 +9497,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemIconSize
+     * @attr name com.sliding.slidingmenu.example:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemIconTint
+     * @attr name com.sliding.slidingmenu.example:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9520,11 +9520,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemTextAppearanceActive
+     * @attr name com.sliding.slidingmenu.example:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9532,22 +9532,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemTextAppearanceInactive
+     * @attr name com.sliding.slidingmenu.example:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemTextColor
+     * @attr name com.sliding.slidingmenu.example:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9562,11 +9562,11 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:labelVisibilityMode
+     * @attr name com.sliding.slidingmenu.example:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9574,7 +9574,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:menu
+     * @attr name com.sliding.slidingmenu.example:menu
      */
     public static final int BottomNavigationView_menu=9;
     /**
@@ -9584,10 +9584,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.jeremyfeinstein.slidingmenu.example:behavior_fitToContents}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.jeremyfeinstein.slidingmenu.example:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.jeremyfeinstein.slidingmenu.example:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.jeremyfeinstein.slidingmenu.example:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.sliding.slidingmenu.example:behavior_fitToContents}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.sliding.slidingmenu.example:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.sliding.slidingmenu.example:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.sliding.slidingmenu.example:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_fitToContents
      * @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -9598,27 +9598,27 @@ public final class R {
       0x7f040038, 0x7f040039, 0x7f04003b, 0x7f04003c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behavior_fitToContents
+     * @attr name com.sliding.slidingmenu.example:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behavior_hideable
+     * @attr name com.sliding.slidingmenu.example:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9635,17 +9635,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behavior_peekHeight
+     * @attr name com.sliding.slidingmenu.example:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behavior_skipCollapsed
+     * @attr name com.sliding.slidingmenu.example:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=3;
     /**
@@ -9655,7 +9655,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.jeremyfeinstein.slidingmenu.example:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.sliding.slidingmenu.example:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -9672,7 +9672,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:allowStacking
+     * @attr name com.sliding.slidingmenu.example:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -9684,17 +9684,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.jeremyfeinstein.slidingmenu.example:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.jeremyfeinstein.slidingmenu.example:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.jeremyfeinstein.slidingmenu.example:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.jeremyfeinstein.slidingmenu.example:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.jeremyfeinstein.slidingmenu.example:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.jeremyfeinstein.slidingmenu.example:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.jeremyfeinstein.slidingmenu.example:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.jeremyfeinstein.slidingmenu.example:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.jeremyfeinstein.slidingmenu.example:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.jeremyfeinstein.slidingmenu.example:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.jeremyfeinstein.slidingmenu.example:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.sliding.slidingmenu.example:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.sliding.slidingmenu.example:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.sliding.slidingmenu.example:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.sliding.slidingmenu.example:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.sliding.slidingmenu.example:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.sliding.slidingmenu.example:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.sliding.slidingmenu.example:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.sliding.slidingmenu.example:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.sliding.slidingmenu.example:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.sliding.slidingmenu.example:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.sliding.slidingmenu.example:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -9753,7 +9753,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:cardBackgroundColor
+     * @attr name com.sliding.slidingmenu.example:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -9767,7 +9767,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:cardCornerRadius
+     * @attr name com.sliding.slidingmenu.example:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -9781,7 +9781,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:cardElevation
+     * @attr name com.sliding.slidingmenu.example:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -9795,7 +9795,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:cardMaxElevation
+     * @attr name com.sliding.slidingmenu.example:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -9806,7 +9806,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:cardPreventCornerOverlap
+     * @attr name com.sliding.slidingmenu.example:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -9817,7 +9817,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:cardUseCompatPadding
+     * @attr name com.sliding.slidingmenu.example:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -9831,7 +9831,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentPadding
+     * @attr name com.sliding.slidingmenu.example:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -9845,7 +9845,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentPaddingBottom
+     * @attr name com.sliding.slidingmenu.example:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -9859,7 +9859,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentPaddingLeft
+     * @attr name com.sliding.slidingmenu.example:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -9873,7 +9873,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentPaddingRight
+     * @attr name com.sliding.slidingmenu.example:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -9887,7 +9887,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentPaddingTop
+     * @attr name com.sliding.slidingmenu.example:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -9902,35 +9902,35 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.jeremyfeinstein.slidingmenu.example:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.jeremyfeinstein.slidingmenu.example:checkedIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.jeremyfeinstein.slidingmenu.example:checkedIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.jeremyfeinstein.slidingmenu.example:chipBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.jeremyfeinstein.slidingmenu.example:chipCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.jeremyfeinstein.slidingmenu.example:chipEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.jeremyfeinstein.slidingmenu.example:chipIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.jeremyfeinstein.slidingmenu.example:chipIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.jeremyfeinstein.slidingmenu.example:chipIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.jeremyfeinstein.slidingmenu.example:chipIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.jeremyfeinstein.slidingmenu.example:chipIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.jeremyfeinstein.slidingmenu.example:chipMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.jeremyfeinstein.slidingmenu.example:chipStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.jeremyfeinstein.slidingmenu.example:chipStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.jeremyfeinstein.slidingmenu.example:chipStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.jeremyfeinstein.slidingmenu.example:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.jeremyfeinstein.slidingmenu.example:closeIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.jeremyfeinstein.slidingmenu.example:closeIconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.jeremyfeinstein.slidingmenu.example:closeIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.jeremyfeinstein.slidingmenu.example:closeIconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.jeremyfeinstein.slidingmenu.example:closeIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.jeremyfeinstein.slidingmenu.example:closeIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.jeremyfeinstein.slidingmenu.example:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.jeremyfeinstein.slidingmenu.example:iconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.jeremyfeinstein.slidingmenu.example:iconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.jeremyfeinstein.slidingmenu.example:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.jeremyfeinstein.slidingmenu.example:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.jeremyfeinstein.slidingmenu.example:textEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.jeremyfeinstein.slidingmenu.example:textStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.sliding.slidingmenu.example:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.sliding.slidingmenu.example:checkedIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.sliding.slidingmenu.example:checkedIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.sliding.slidingmenu.example:chipBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.sliding.slidingmenu.example:chipCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.sliding.slidingmenu.example:chipEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.sliding.slidingmenu.example:chipIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.sliding.slidingmenu.example:chipIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.sliding.slidingmenu.example:chipIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.sliding.slidingmenu.example:chipIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.sliding.slidingmenu.example:chipIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.sliding.slidingmenu.example:chipMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.sliding.slidingmenu.example:chipStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.sliding.slidingmenu.example:chipStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.sliding.slidingmenu.example:chipStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.sliding.slidingmenu.example:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.sliding.slidingmenu.example:closeIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.sliding.slidingmenu.example:closeIconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.sliding.slidingmenu.example:closeIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.sliding.slidingmenu.example:closeIconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.sliding.slidingmenu.example:closeIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.sliding.slidingmenu.example:closeIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.sliding.slidingmenu.example:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.sliding.slidingmenu.example:iconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.sliding.slidingmenu.example:iconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.sliding.slidingmenu.example:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.sliding.slidingmenu.example:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.sliding.slidingmenu.example:textEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.sliding.slidingmenu.example:textStartPadding}</code></td><td></td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_ellipsize
@@ -10044,7 +10044,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10052,42 +10052,42 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:checkedIcon
+     * @attr name com.sliding.slidingmenu.example:checkedIcon
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:checkedIconEnabled
+     * @attr name com.sliding.slidingmenu.example:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:checkedIconVisible
+     * @attr name com.sliding.slidingmenu.example:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipBackgroundColor
+     * @attr name com.sliding.slidingmenu.example:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10096,11 +10096,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipCornerRadius
+     * @attr name com.sliding.slidingmenu.example:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10109,11 +10109,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipEndPadding
+     * @attr name com.sliding.slidingmenu.example:chipEndPadding
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10121,21 +10121,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipIcon
+     * @attr name com.sliding.slidingmenu.example:chipIcon
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipIconEnabled
+     * @attr name com.sliding.slidingmenu.example:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10144,32 +10144,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipIconSize
+     * @attr name com.sliding.slidingmenu.example:chipIconSize
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipIconTint
+     * @attr name com.sliding.slidingmenu.example:chipIconTint
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipIconVisible
+     * @attr name com.sliding.slidingmenu.example:chipIconVisible
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10178,11 +10178,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipMinHeight
+     * @attr name com.sliding.slidingmenu.example:chipMinHeight
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10191,22 +10191,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipStartPadding
+     * @attr name com.sliding.slidingmenu.example:chipStartPadding
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipStrokeColor
+     * @attr name com.sliding.slidingmenu.example:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10215,7 +10215,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipStrokeWidth
+     * @attr name com.sliding.slidingmenu.example:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=19;
     /**
@@ -10228,21 +10228,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeIcon
+     * @attr name com.sliding.slidingmenu.example:closeIcon
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeIconEnabled
+     * @attr name com.sliding.slidingmenu.example:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10251,11 +10251,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeIconEndPadding
+     * @attr name com.sliding.slidingmenu.example:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10264,11 +10264,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeIconSize
+     * @attr name com.sliding.slidingmenu.example:closeIconSize
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10277,32 +10277,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeIconStartPadding
+     * @attr name com.sliding.slidingmenu.example:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeIconTint
+     * @attr name com.sliding.slidingmenu.example:closeIconTint
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeIconVisible
+     * @attr name com.sliding.slidingmenu.example:closeIconVisible
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10310,11 +10310,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:hideMotionSpec
+     * @attr name com.sliding.slidingmenu.example:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10323,11 +10323,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconEndPadding
+     * @attr name com.sliding.slidingmenu.example:iconEndPadding
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10336,22 +10336,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconStartPadding
+     * @attr name com.sliding.slidingmenu.example:iconStartPadding
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:rippleColor
+     * @attr name com.sliding.slidingmenu.example:rippleColor
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10359,11 +10359,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:showMotionSpec
+     * @attr name com.sliding.slidingmenu.example:showMotionSpec
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10372,11 +10372,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textEndPadding
+     * @attr name com.sliding.slidingmenu.example:textEndPadding
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10385,7 +10385,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textStartPadding
+     * @attr name com.sliding.slidingmenu.example:textStartPadding
      */
     public static final int Chip_textStartPadding=33;
     /**
@@ -10395,12 +10395,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.jeremyfeinstein.slidingmenu.example:checkedChip}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.jeremyfeinstein.slidingmenu.example:chipSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.jeremyfeinstein.slidingmenu.example:chipSpacingHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.jeremyfeinstein.slidingmenu.example:chipSpacingVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.jeremyfeinstein.slidingmenu.example:singleLine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.jeremyfeinstein.slidingmenu.example:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.sliding.slidingmenu.example:checkedChip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.sliding.slidingmenu.example:chipSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.sliding.slidingmenu.example:chipSpacingHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.sliding.slidingmenu.example:chipSpacingVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.sliding.slidingmenu.example:singleLine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.sliding.slidingmenu.example:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -10414,7 +10414,7 @@ public final class R {
       0x7f040167, 0x7f040168
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10422,11 +10422,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:checkedChip
+     * @attr name com.sliding.slidingmenu.example:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10435,11 +10435,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipSpacing
+     * @attr name com.sliding.slidingmenu.example:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10448,11 +10448,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipSpacingHorizontal
+     * @attr name com.sliding.slidingmenu.example:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10461,27 +10461,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipSpacingVertical
+     * @attr name com.sliding.slidingmenu.example:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:singleLine
+     * @attr name com.sliding.slidingmenu.example:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:singleSelection
+     * @attr name com.sliding.slidingmenu.example:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -10491,22 +10491,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.jeremyfeinstein.slidingmenu.example:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.jeremyfeinstein.slidingmenu.example:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.jeremyfeinstein.slidingmenu.example:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.jeremyfeinstein.slidingmenu.example:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.jeremyfeinstein.slidingmenu.example:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.jeremyfeinstein.slidingmenu.example:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.jeremyfeinstein.slidingmenu.example:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.jeremyfeinstein.slidingmenu.example:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.jeremyfeinstein.slidingmenu.example:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.jeremyfeinstein.slidingmenu.example:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.jeremyfeinstein.slidingmenu.example:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.jeremyfeinstein.slidingmenu.example:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.jeremyfeinstein.slidingmenu.example:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.jeremyfeinstein.slidingmenu.example:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.jeremyfeinstein.slidingmenu.example:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.jeremyfeinstein.slidingmenu.example:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.sliding.slidingmenu.example:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.sliding.slidingmenu.example:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.sliding.slidingmenu.example:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.sliding.slidingmenu.example:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.sliding.slidingmenu.example:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.sliding.slidingmenu.example:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.sliding.slidingmenu.example:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.sliding.slidingmenu.example:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.sliding.slidingmenu.example:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.sliding.slidingmenu.example:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.sliding.slidingmenu.example:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.sliding.slidingmenu.example:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.sliding.slidingmenu.example:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.sliding.slidingmenu.example:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.sliding.slidingmenu.example:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.sliding.slidingmenu.example:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -10532,7 +10532,7 @@ public final class R {
       0x7f040178, 0x7f0401c5, 0x7f0401c6, 0x7f0401d0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10553,11 +10553,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:collapsedTitleGravity
+     * @attr name com.sliding.slidingmenu.example:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10565,22 +10565,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:collapsedTitleTextAppearance
+     * @attr name com.sliding.slidingmenu.example:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentScrim
+     * @attr name com.sliding.slidingmenu.example:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10601,11 +10601,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expandedTitleGravity
+     * @attr name com.sliding.slidingmenu.example:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10614,11 +10614,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expandedTitleMargin
+     * @attr name com.sliding.slidingmenu.example:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10627,11 +10627,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expandedTitleMarginBottom
+     * @attr name com.sliding.slidingmenu.example:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10640,11 +10640,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expandedTitleMarginEnd
+     * @attr name com.sliding.slidingmenu.example:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10653,11 +10653,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expandedTitleMarginStart
+     * @attr name com.sliding.slidingmenu.example:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10666,11 +10666,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expandedTitleMarginTop
+     * @attr name com.sliding.slidingmenu.example:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10678,20 +10678,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:expandedTitleTextAppearance
+     * @attr name com.sliding.slidingmenu.example:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:scrimAnimationDuration
+     * @attr name com.sliding.slidingmenu.example:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10700,42 +10700,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:scrimVisibleHeightTrigger
+     * @attr name com.sliding.slidingmenu.example:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:statusBarScrim
+     * @attr name com.sliding.slidingmenu.example:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:title
+     * @attr name com.sliding.slidingmenu.example:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleEnabled
+     * @attr name com.sliding.slidingmenu.example:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10743,7 +10743,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:toolbarId
+     * @attr name com.sliding.slidingmenu.example:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -10753,8 +10753,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.jeremyfeinstein.slidingmenu.example:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.jeremyfeinstein.slidingmenu.example:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.sliding.slidingmenu.example:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.sliding.slidingmenu.example:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -10763,7 +10763,7 @@ public final class R {
       0x7f040113, 0x7f040114
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10777,16 +10777,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_collapseMode
+     * @attr name com.sliding.slidingmenu.example:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_collapseParallaxMultiplier
+     * @attr name com.sliding.slidingmenu.example:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -10798,7 +10798,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.jeremyfeinstein.slidingmenu.example:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.sliding.slidingmenu.example:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -10835,7 +10835,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:alpha
+     * @attr name com.sliding.slidingmenu.example:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -10846,8 +10846,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.jeremyfeinstein.slidingmenu.example:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.jeremyfeinstein.slidingmenu.example:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.sliding.slidingmenu.example:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.sliding.slidingmenu.example:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -10877,7 +10877,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonTint
+     * @attr name com.sliding.slidingmenu.example:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
@@ -10904,7 +10904,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonTintMode
+     * @attr name com.sliding.slidingmenu.example:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -10914,9 +10914,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.jeremyfeinstein.slidingmenu.example:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.sliding.slidingmenu.example:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.jeremyfeinstein.slidingmenu.example:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.sliding.slidingmenu.example:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -10938,7 +10938,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:keylines
+     * @attr name com.sliding.slidingmenu.example:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -10954,7 +10954,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:statusBarBackground
+     * @attr name com.sliding.slidingmenu.example:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -10965,15 +10965,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.jeremyfeinstein.slidingmenu.example:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.jeremyfeinstein.slidingmenu.example:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.sliding.slidingmenu.example:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.sliding.slidingmenu.example:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.jeremyfeinstein.slidingmenu.example:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.sliding.slidingmenu.example:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.jeremyfeinstein.slidingmenu.example:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.jeremyfeinstein.slidingmenu.example:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.sliding.slidingmenu.example:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.sliding.slidingmenu.example:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.jeremyfeinstein.slidingmenu.example:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.sliding.slidingmenu.example:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -11026,7 +11026,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_anchor
+     * @attr name com.sliding.slidingmenu.example:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -11063,7 +11063,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_anchorGravity
+     * @attr name com.sliding.slidingmenu.example:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -11075,7 +11075,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_behavior
+     * @attr name com.sliding.slidingmenu.example:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -11099,7 +11099,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_dodgeInsetEdges
+     * @attr name com.sliding.slidingmenu.example:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -11123,7 +11123,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_insetEdge
+     * @attr name com.sliding.slidingmenu.example:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -11135,7 +11135,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout_keyline
+     * @attr name com.sliding.slidingmenu.example:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -11145,8 +11145,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.jeremyfeinstein.slidingmenu.example:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.jeremyfeinstein.slidingmenu.example:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.sliding.slidingmenu.example:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.sliding.slidingmenu.example:bottomSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -11155,7 +11155,7 @@ public final class R {
       0x7f040044, 0x7f040045
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11163,11 +11163,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:bottomSheetDialogTheme
+     * @attr name com.sliding.slidingmenu.example:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11175,7 +11175,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:bottomSheetStyle
+     * @attr name com.sliding.slidingmenu.example:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -11185,14 +11185,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.jeremyfeinstein.slidingmenu.example:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.jeremyfeinstein.slidingmenu.example:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.jeremyfeinstein.slidingmenu.example:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.jeremyfeinstein.slidingmenu.example:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.jeremyfeinstein.slidingmenu.example:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.jeremyfeinstein.slidingmenu.example:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.jeremyfeinstein.slidingmenu.example:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.jeremyfeinstein.slidingmenu.example:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.sliding.slidingmenu.example:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.sliding.slidingmenu.example:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.sliding.slidingmenu.example:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.sliding.slidingmenu.example:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.sliding.slidingmenu.example:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.sliding.slidingmenu.example:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.sliding.slidingmenu.example:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.sliding.slidingmenu.example:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -11218,7 +11218,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:arrowHeadLength
+     * @attr name com.sliding.slidingmenu.example:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -11232,7 +11232,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:arrowShaftLength
+     * @attr name com.sliding.slidingmenu.example:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -11246,7 +11246,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:barLength
+     * @attr name com.sliding.slidingmenu.example:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -11258,7 +11258,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:color
+     * @attr name com.sliding.slidingmenu.example:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -11272,7 +11272,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:drawableSize
+     * @attr name com.sliding.slidingmenu.example:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -11286,7 +11286,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:gapBetweenBars
+     * @attr name com.sliding.slidingmenu.example:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -11297,7 +11297,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:spinBars
+     * @attr name com.sliding.slidingmenu.example:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -11311,7 +11311,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:thickness
+     * @attr name com.sliding.slidingmenu.example:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -11321,19 +11321,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.jeremyfeinstein.slidingmenu.example:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.jeremyfeinstein.slidingmenu.example:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.jeremyfeinstein.slidingmenu.example:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.jeremyfeinstein.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.jeremyfeinstein.slidingmenu.example:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.jeremyfeinstein.slidingmenu.example:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.jeremyfeinstein.slidingmenu.example:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.jeremyfeinstein.slidingmenu.example:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.jeremyfeinstein.slidingmenu.example:maxImageSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.jeremyfeinstein.slidingmenu.example:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.jeremyfeinstein.slidingmenu.example:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.jeremyfeinstein.slidingmenu.example:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.jeremyfeinstein.slidingmenu.example:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.sliding.slidingmenu.example:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.sliding.slidingmenu.example:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.sliding.slidingmenu.example:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.sliding.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.sliding.slidingmenu.example:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.sliding.slidingmenu.example:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.sliding.slidingmenu.example:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.sliding.slidingmenu.example:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.sliding.slidingmenu.example:maxImageSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.sliding.slidingmenu.example:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.sliding.slidingmenu.example:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.sliding.slidingmenu.example:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.sliding.slidingmenu.example:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -11364,7 +11364,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundTint
+     * @attr name com.sliding.slidingmenu.example:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -11391,11 +11391,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundTintMode
+     * @attr name com.sliding.slidingmenu.example:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11404,7 +11404,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:borderWidth
+     * @attr name com.sliding.slidingmenu.example:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -11418,11 +11418,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:elevation
+     * @attr name com.sliding.slidingmenu.example:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11431,11 +11431,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fabCustomSize
+     * @attr name com.sliding.slidingmenu.example:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11449,11 +11449,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fabSize
+     * @attr name com.sliding.slidingmenu.example:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11461,11 +11461,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:hideMotionSpec
+     * @attr name com.sliding.slidingmenu.example:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11474,11 +11474,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:hoveredFocusedTranslationZ
+     * @attr name com.sliding.slidingmenu.example:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11487,11 +11487,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:maxImageSize
+     * @attr name com.sliding.slidingmenu.example:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11500,22 +11500,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:pressedTranslationZ
+     * @attr name com.sliding.slidingmenu.example:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:rippleColor
+     * @attr name com.sliding.slidingmenu.example:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11523,17 +11523,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:showMotionSpec
+     * @attr name com.sliding.slidingmenu.example:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:useCompatPadding
+     * @attr name com.sliding.slidingmenu.example:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=12;
     /**
@@ -11543,7 +11543,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.jeremyfeinstein.slidingmenu.example:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.sliding.slidingmenu.example:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -11551,13 +11551,13 @@ public final class R {
       0x7f040037
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behavior_autoHide
+     * @attr name com.sliding.slidingmenu.example:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -11567,8 +11567,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.jeremyfeinstein.slidingmenu.example:itemSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.jeremyfeinstein.slidingmenu.example:lineSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.sliding.slidingmenu.example:itemSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.sliding.slidingmenu.example:lineSpacing}</code></td><td></td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -11577,7 +11577,7 @@ public final class R {
       0x7f040106, 0x7f04011c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11586,11 +11586,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemSpacing
+     * @attr name com.sliding.slidingmenu.example:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11599,7 +11599,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:lineSpacing
+     * @attr name com.sliding.slidingmenu.example:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -11609,12 +11609,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.jeremyfeinstein.slidingmenu.example:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.jeremyfeinstein.slidingmenu.example:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.jeremyfeinstein.slidingmenu.example:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.jeremyfeinstein.slidingmenu.example:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.jeremyfeinstein.slidingmenu.example:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.jeremyfeinstein.slidingmenu.example:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.sliding.slidingmenu.example:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.sliding.slidingmenu.example:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.sliding.slidingmenu.example:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.sliding.slidingmenu.example:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.sliding.slidingmenu.example:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.sliding.slidingmenu.example:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -11635,7 +11635,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontProviderAuthority
+     * @attr name com.sliding.slidingmenu.example:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -11652,7 +11652,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontProviderCerts
+     * @attr name com.sliding.slidingmenu.example:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -11684,7 +11684,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontProviderFetchStrategy
+     * @attr name com.sliding.slidingmenu.example:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -11703,7 +11703,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontProviderFetchTimeout
+     * @attr name com.sliding.slidingmenu.example:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -11715,7 +11715,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontProviderPackage
+     * @attr name com.sliding.slidingmenu.example:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -11727,7 +11727,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontProviderQuery
+     * @attr name com.sliding.slidingmenu.example:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -11742,11 +11742,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.jeremyfeinstein.slidingmenu.example:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.jeremyfeinstein.slidingmenu.example:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.jeremyfeinstein.slidingmenu.example:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.jeremyfeinstein.slidingmenu.example:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.jeremyfeinstein.slidingmenu.example:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.sliding.slidingmenu.example:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.sliding.slidingmenu.example:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.sliding.slidingmenu.example:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.sliding.slidingmenu.example:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.sliding.slidingmenu.example:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -11833,7 +11833,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:font
+     * @attr name com.sliding.slidingmenu.example:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -11853,7 +11853,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontStyle
+     * @attr name com.sliding.slidingmenu.example:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -11867,7 +11867,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontVariationSettings
+     * @attr name com.sliding.slidingmenu.example:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -11881,7 +11881,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontWeight
+     * @attr name com.sliding.slidingmenu.example:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -11892,7 +11892,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:ttcIndex
+     * @attr name com.sliding.slidingmenu.example:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -11904,7 +11904,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.jeremyfeinstein.slidingmenu.example:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.sliding.slidingmenu.example:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -11956,13 +11956,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:foregroundInsidePadding
+     * @attr name com.sliding.slidingmenu.example:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -12220,11 +12220,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.jeremyfeinstein.slidingmenu.example:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.jeremyfeinstein.slidingmenu.example:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.jeremyfeinstein.slidingmenu.example:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.sliding.slidingmenu.example:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.sliding.slidingmenu.example:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.sliding.slidingmenu.example:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.jeremyfeinstein.slidingmenu.example:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.sliding.slidingmenu.example:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -12339,7 +12339,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:divider
+     * @attr name com.sliding.slidingmenu.example:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -12353,7 +12353,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:dividerPadding
+     * @attr name com.sliding.slidingmenu.example:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -12366,7 +12366,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:measureWithLargestChild
+     * @attr name com.sliding.slidingmenu.example:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -12386,7 +12386,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:showDividers
+     * @attr name com.sliding.slidingmenu.example:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -12548,18 +12548,18 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.jeremyfeinstein.slidingmenu.example:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.jeremyfeinstein.slidingmenu.example:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.jeremyfeinstein.slidingmenu.example:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.jeremyfeinstein.slidingmenu.example:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.jeremyfeinstein.slidingmenu.example:iconGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.jeremyfeinstein.slidingmenu.example:iconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.jeremyfeinstein.slidingmenu.example:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.jeremyfeinstein.slidingmenu.example:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.jeremyfeinstein.slidingmenu.example:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.jeremyfeinstein.slidingmenu.example:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.jeremyfeinstein.slidingmenu.example:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.jeremyfeinstein.slidingmenu.example:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.sliding.slidingmenu.example:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.sliding.slidingmenu.example:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.sliding.slidingmenu.example:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.sliding.slidingmenu.example:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.sliding.slidingmenu.example:iconGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.sliding.slidingmenu.example:iconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.sliding.slidingmenu.example:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.sliding.slidingmenu.example:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.sliding.slidingmenu.example:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.sliding.slidingmenu.example:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.sliding.slidingmenu.example:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.sliding.slidingmenu.example:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -12661,7 +12661,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundTint
+     * @attr name com.sliding.slidingmenu.example:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=4;
     /**
@@ -12688,11 +12688,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundTintMode
+     * @attr name com.sliding.slidingmenu.example:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12701,11 +12701,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:cornerRadius
+     * @attr name com.sliding.slidingmenu.example:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12713,11 +12713,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:icon
+     * @attr name com.sliding.slidingmenu.example:icon
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12730,11 +12730,11 @@ public final class R {
      * <tr><td>textStart</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconGravity
+     * @attr name com.sliding.slidingmenu.example:iconGravity
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12743,11 +12743,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconPadding
+     * @attr name com.sliding.slidingmenu.example:iconPadding
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12756,7 +12756,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconSize
+     * @attr name com.sliding.slidingmenu.example:iconSize
      */
     public static final int MaterialButton_iconSize=10;
     /**
@@ -12768,7 +12768,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconTint
+     * @attr name com.sliding.slidingmenu.example:iconTint
      */
     public static final int MaterialButton_iconTint=11;
     /**
@@ -12795,33 +12795,33 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconTintMode
+     * @attr name com.sliding.slidingmenu.example:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:rippleColor
+     * @attr name com.sliding.slidingmenu.example:rippleColor
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:strokeColor
+     * @attr name com.sliding.slidingmenu.example:strokeColor
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12830,7 +12830,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:strokeWidth
+     * @attr name com.sliding.slidingmenu.example:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=15;
     /**
@@ -12840,8 +12840,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.jeremyfeinstein.slidingmenu.example:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.jeremyfeinstein.slidingmenu.example:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.sliding.slidingmenu.example:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.sliding.slidingmenu.example:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_strokeColor
      * @see #MaterialCardView_strokeWidth
@@ -12850,18 +12850,18 @@ public final class R {
       0x7f040179, 0x7f04017a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:strokeColor
+     * @attr name com.sliding.slidingmenu.example:strokeColor
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12870,7 +12870,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:strokeWidth
+     * @attr name com.sliding.slidingmenu.example:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=1;
     /**
@@ -12880,38 +12880,38 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.jeremyfeinstein.slidingmenu.example:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.jeremyfeinstein.slidingmenu.example:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.jeremyfeinstein.slidingmenu.example:chipGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.jeremyfeinstein.slidingmenu.example:chipStandaloneStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.jeremyfeinstein.slidingmenu.example:chipStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.jeremyfeinstein.slidingmenu.example:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.jeremyfeinstein.slidingmenu.example:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.jeremyfeinstein.slidingmenu.example:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.jeremyfeinstein.slidingmenu.example:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.jeremyfeinstein.slidingmenu.example:colorSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.jeremyfeinstein.slidingmenu.example:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.jeremyfeinstein.slidingmenu.example:floatingActionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.jeremyfeinstein.slidingmenu.example:materialButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.jeremyfeinstein.slidingmenu.example:materialCardViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.jeremyfeinstein.slidingmenu.example:navigationViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.jeremyfeinstein.slidingmenu.example:scrimBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.jeremyfeinstein.slidingmenu.example:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.jeremyfeinstein.slidingmenu.example:tabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.jeremyfeinstein.slidingmenu.example:textAppearanceBody1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.jeremyfeinstein.slidingmenu.example:textAppearanceBody2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.jeremyfeinstein.slidingmenu.example:textAppearanceButton}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.jeremyfeinstein.slidingmenu.example:textAppearanceCaption}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline3}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline4}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline5}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline6}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.jeremyfeinstein.slidingmenu.example:textAppearanceOverline}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.jeremyfeinstein.slidingmenu.example:textAppearanceSubtitle1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.jeremyfeinstein.slidingmenu.example:textAppearanceSubtitle2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.jeremyfeinstein.slidingmenu.example:textInputStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.sliding.slidingmenu.example:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.sliding.slidingmenu.example:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.sliding.slidingmenu.example:chipGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.sliding.slidingmenu.example:chipStandaloneStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.sliding.slidingmenu.example:chipStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.sliding.slidingmenu.example:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.sliding.slidingmenu.example:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.sliding.slidingmenu.example:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.sliding.slidingmenu.example:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.sliding.slidingmenu.example:colorSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.sliding.slidingmenu.example:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.sliding.slidingmenu.example:floatingActionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.sliding.slidingmenu.example:materialButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.sliding.slidingmenu.example:materialCardViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.sliding.slidingmenu.example:navigationViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.sliding.slidingmenu.example:scrimBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.sliding.slidingmenu.example:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.sliding.slidingmenu.example:tabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.sliding.slidingmenu.example:textAppearanceBody1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.sliding.slidingmenu.example:textAppearanceBody2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.sliding.slidingmenu.example:textAppearanceButton}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.sliding.slidingmenu.example:textAppearanceCaption}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.sliding.slidingmenu.example:textAppearanceHeadline1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.sliding.slidingmenu.example:textAppearanceHeadline2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.sliding.slidingmenu.example:textAppearanceHeadline3}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.sliding.slidingmenu.example:textAppearanceHeadline4}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.sliding.slidingmenu.example:textAppearanceHeadline5}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.sliding.slidingmenu.example:textAppearanceHeadline6}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.sliding.slidingmenu.example:textAppearanceOverline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.sliding.slidingmenu.example:textAppearanceSubtitle1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.sliding.slidingmenu.example:textAppearanceSubtitle2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.sliding.slidingmenu.example:textInputStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialComponentsTheme_bottomSheetDialogTheme
      * @see #MaterialComponentsTheme_bottomSheetStyle
@@ -12957,7 +12957,7 @@ public final class R {
       0x7f0401af, 0x7f0401b4, 0x7f0401b5, 0x7f0401b9
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12965,11 +12965,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:bottomSheetDialogTheme
+     * @attr name com.sliding.slidingmenu.example:bottomSheetDialogTheme
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12977,11 +12977,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:bottomSheetStyle
+     * @attr name com.sliding.slidingmenu.example:bottomSheetStyle
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12989,11 +12989,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipGroupStyle
+     * @attr name com.sliding.slidingmenu.example:chipGroupStyle
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13001,11 +13001,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipStandaloneStyle
+     * @attr name com.sliding.slidingmenu.example:chipStandaloneStyle
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13013,7 +13013,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:chipStyle
+     * @attr name com.sliding.slidingmenu.example:chipStyle
      */
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
@@ -13026,7 +13026,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorAccent
+     * @attr name com.sliding.slidingmenu.example:colorAccent
      */
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
@@ -13038,7 +13038,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorBackgroundFloating
+     * @attr name com.sliding.slidingmenu.example:colorBackgroundFloating
      */
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
@@ -13051,7 +13051,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorPrimary
+     * @attr name com.sliding.slidingmenu.example:colorPrimary
      */
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
@@ -13064,18 +13064,18 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorPrimaryDark
+     * @attr name com.sliding.slidingmenu.example:colorPrimaryDark
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:colorSecondary
+     * @attr name com.sliding.slidingmenu.example:colorSecondary
      */
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
@@ -13088,11 +13088,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:editTextStyle
+     * @attr name com.sliding.slidingmenu.example:editTextStyle
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13118,11 +13118,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:floatingActionButtonStyle
+     * @attr name com.sliding.slidingmenu.example:floatingActionButtonStyle
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13130,11 +13130,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:materialButtonStyle
+     * @attr name com.sliding.slidingmenu.example:materialButtonStyle
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13142,11 +13142,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:materialCardViewStyle
+     * @attr name com.sliding.slidingmenu.example:materialCardViewStyle
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13154,11 +13154,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:navigationViewStyle
+     * @attr name com.sliding.slidingmenu.example:navigationViewStyle
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13169,11 +13169,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:scrimBackground
+     * @attr name com.sliding.slidingmenu.example:scrimBackground
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13181,11 +13181,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:snackbarButtonStyle
+     * @attr name com.sliding.slidingmenu.example:snackbarButtonStyle
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13193,11 +13193,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabStyle
+     * @attr name com.sliding.slidingmenu.example:tabStyle
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13205,11 +13205,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceBody1
+     * @attr name com.sliding.slidingmenu.example:textAppearanceBody1
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13217,11 +13217,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceBody2
+     * @attr name com.sliding.slidingmenu.example:textAppearanceBody2
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13229,11 +13229,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceButton
+     * @attr name com.sliding.slidingmenu.example:textAppearanceButton
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13241,11 +13241,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceCaption
+     * @attr name com.sliding.slidingmenu.example:textAppearanceCaption
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13253,11 +13253,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline1
+     * @attr name com.sliding.slidingmenu.example:textAppearanceHeadline1
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13265,11 +13265,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline2
+     * @attr name com.sliding.slidingmenu.example:textAppearanceHeadline2
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13277,11 +13277,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline3
+     * @attr name com.sliding.slidingmenu.example:textAppearanceHeadline3
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13289,11 +13289,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline4
+     * @attr name com.sliding.slidingmenu.example:textAppearanceHeadline4
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13301,11 +13301,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline5
+     * @attr name com.sliding.slidingmenu.example:textAppearanceHeadline5
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13313,11 +13313,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceHeadline6
+     * @attr name com.sliding.slidingmenu.example:textAppearanceHeadline6
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13325,11 +13325,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceOverline
+     * @attr name com.sliding.slidingmenu.example:textAppearanceOverline
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13337,11 +13337,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceSubtitle1
+     * @attr name com.sliding.slidingmenu.example:textAppearanceSubtitle1
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13349,11 +13349,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAppearanceSubtitle2
+     * @attr name com.sliding.slidingmenu.example:textAppearanceSubtitle2
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13361,7 +13361,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textInputStyle
+     * @attr name com.sliding.slidingmenu.example:textInputStyle
      */
     public static final int MaterialComponentsTheme_textInputStyle=31;
     /**
@@ -13495,18 +13495,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.jeremyfeinstein.slidingmenu.example:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.jeremyfeinstein.slidingmenu.example:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.sliding.slidingmenu.example:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.sliding.slidingmenu.example:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.jeremyfeinstein.slidingmenu.example:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.sliding.slidingmenu.example:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.jeremyfeinstein.slidingmenu.example:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.jeremyfeinstein.slidingmenu.example:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.jeremyfeinstein.slidingmenu.example:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.jeremyfeinstein.slidingmenu.example:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.jeremyfeinstein.slidingmenu.example:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.jeremyfeinstein.slidingmenu.example:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.jeremyfeinstein.slidingmenu.example:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.sliding.slidingmenu.example:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.sliding.slidingmenu.example:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.sliding.slidingmenu.example:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.sliding.slidingmenu.example:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.sliding.slidingmenu.example:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.sliding.slidingmenu.example:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.sliding.slidingmenu.example:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -13715,7 +13715,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionLayout
+     * @attr name com.sliding.slidingmenu.example:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -13729,7 +13729,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionProviderClass
+     * @attr name com.sliding.slidingmenu.example:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -13742,7 +13742,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:actionViewClass
+     * @attr name com.sliding.slidingmenu.example:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -13765,7 +13765,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:alphabeticModifiers
+     * @attr name com.sliding.slidingmenu.example:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -13776,7 +13776,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentDescription
+     * @attr name com.sliding.slidingmenu.example:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -13788,7 +13788,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconTint
+     * @attr name com.sliding.slidingmenu.example:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -13815,7 +13815,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconTintMode
+     * @attr name com.sliding.slidingmenu.example:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -13838,7 +13838,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:numericModifiers
+     * @attr name com.sliding.slidingmenu.example:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -13868,7 +13868,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:showAsAction
+     * @attr name com.sliding.slidingmenu.example:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -13879,7 +13879,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tooltipText
+     * @attr name com.sliding.slidingmenu.example:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -13896,8 +13896,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.jeremyfeinstein.slidingmenu.example:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.jeremyfeinstein.slidingmenu.example:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.sliding.slidingmenu.example:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.sliding.slidingmenu.example:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -14016,7 +14016,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:preserveIconSpacing
+     * @attr name com.sliding.slidingmenu.example:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -14029,7 +14029,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:subMenuArrow
+     * @attr name com.sliding.slidingmenu.example:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -14042,15 +14042,15 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.jeremyfeinstein.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.jeremyfeinstein.slidingmenu.example:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.jeremyfeinstein.slidingmenu.example:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.jeremyfeinstein.slidingmenu.example:itemHorizontalPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.jeremyfeinstein.slidingmenu.example:itemIconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.jeremyfeinstein.slidingmenu.example:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.jeremyfeinstein.slidingmenu.example:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.jeremyfeinstein.slidingmenu.example:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.jeremyfeinstein.slidingmenu.example:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.sliding.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.sliding.slidingmenu.example:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.sliding.slidingmenu.example:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.sliding.slidingmenu.example:itemHorizontalPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.sliding.slidingmenu.example:itemIconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.sliding.slidingmenu.example:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.sliding.slidingmenu.example:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.sliding.slidingmenu.example:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.sliding.slidingmenu.example:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -14119,11 +14119,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:elevation
+     * @attr name com.sliding.slidingmenu.example:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14131,11 +14131,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:headerLayout
+     * @attr name com.sliding.slidingmenu.example:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14143,11 +14143,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemBackground
+     * @attr name com.sliding.slidingmenu.example:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14156,11 +14156,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemHorizontalPadding
+     * @attr name com.sliding.slidingmenu.example:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14169,22 +14169,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemIconPadding
+     * @attr name com.sliding.slidingmenu.example:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemIconTint
+     * @attr name com.sliding.slidingmenu.example:itemIconTint
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14192,22 +14192,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemTextAppearance
+     * @attr name com.sliding.slidingmenu.example:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:itemTextColor
+     * @attr name com.sliding.slidingmenu.example:itemTextColor
      */
     public static final int NavigationView_itemTextColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14215,7 +14215,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:menu
+     * @attr name com.sliding.slidingmenu.example:menu
      */
     public static final int NavigationView_menu=11;
     /**
@@ -14227,7 +14227,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.jeremyfeinstein.slidingmenu.example:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.sliding.slidingmenu.example:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -14271,7 +14271,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:overlapAnchor
+     * @attr name com.sliding.slidingmenu.example:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -14281,7 +14281,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.jeremyfeinstein.slidingmenu.example:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.sliding.slidingmenu.example:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -14296,7 +14296,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:state_above_anchor
+     * @attr name com.sliding.slidingmenu.example:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -14306,8 +14306,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.jeremyfeinstein.slidingmenu.example:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.jeremyfeinstein.slidingmenu.example:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.sliding.slidingmenu.example:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.sliding.slidingmenu.example:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -14326,7 +14326,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:paddingBottomNoButtons
+     * @attr name com.sliding.slidingmenu.example:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -14340,7 +14340,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:paddingTopNoTitle
+     * @attr name com.sliding.slidingmenu.example:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -14352,15 +14352,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.jeremyfeinstein.slidingmenu.example:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.jeremyfeinstein.slidingmenu.example:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.jeremyfeinstein.slidingmenu.example:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.jeremyfeinstein.slidingmenu.example:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.jeremyfeinstein.slidingmenu.example:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.jeremyfeinstein.slidingmenu.example:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.jeremyfeinstein.slidingmenu.example:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.jeremyfeinstein.slidingmenu.example:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.jeremyfeinstein.slidingmenu.example:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.sliding.slidingmenu.example:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.sliding.slidingmenu.example:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.sliding.slidingmenu.example:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.sliding.slidingmenu.example:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.sliding.slidingmenu.example:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.sliding.slidingmenu.example:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.sliding.slidingmenu.example:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.sliding.slidingmenu.example:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.sliding.slidingmenu.example:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -14415,17 +14415,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fastScrollEnabled
+     * @attr name com.sliding.slidingmenu.example:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14433,11 +14433,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fastScrollHorizontalThumbDrawable
+     * @attr name com.sliding.slidingmenu.example:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14445,11 +14445,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fastScrollHorizontalTrackDrawable
+     * @attr name com.sliding.slidingmenu.example:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14457,11 +14457,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fastScrollVerticalThumbDrawable
+     * @attr name com.sliding.slidingmenu.example:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14469,7 +14469,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fastScrollVerticalTrackDrawable
+     * @attr name com.sliding.slidingmenu.example:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
@@ -14488,36 +14488,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layoutManager
+     * @attr name com.sliding.slidingmenu.example:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:reverseLayout
+     * @attr name com.sliding.slidingmenu.example:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:spanCount
+     * @attr name com.sliding.slidingmenu.example:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:stackFromEnd
+     * @attr name com.sliding.slidingmenu.example:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -14527,7 +14527,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.jeremyfeinstein.slidingmenu.example:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.sliding.slidingmenu.example:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -14535,7 +14535,7 @@ public final class R {
       0x7f0400fd
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14546,7 +14546,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:insetForeground
+     * @attr name com.sliding.slidingmenu.example:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -14556,7 +14556,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.jeremyfeinstein.slidingmenu.example:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.sliding.slidingmenu.example:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -14564,7 +14564,7 @@ public final class R {
       0x7f04003a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14573,7 +14573,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behavior_overlapTop
+     * @attr name com.sliding.slidingmenu.example:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -14587,20 +14587,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.jeremyfeinstein.slidingmenu.example:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.jeremyfeinstein.slidingmenu.example:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.jeremyfeinstein.slidingmenu.example:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.sliding.slidingmenu.example:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.sliding.slidingmenu.example:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.sliding.slidingmenu.example:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.jeremyfeinstein.slidingmenu.example:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.jeremyfeinstein.slidingmenu.example:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.jeremyfeinstein.slidingmenu.example:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.jeremyfeinstein.slidingmenu.example:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.jeremyfeinstein.slidingmenu.example:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.jeremyfeinstein.slidingmenu.example:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.jeremyfeinstein.slidingmenu.example:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.jeremyfeinstein.slidingmenu.example:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.jeremyfeinstein.slidingmenu.example:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.jeremyfeinstein.slidingmenu.example:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.sliding.slidingmenu.example:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.sliding.slidingmenu.example:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.sliding.slidingmenu.example:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.sliding.slidingmenu.example:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.sliding.slidingmenu.example:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.sliding.slidingmenu.example:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.sliding.slidingmenu.example:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.sliding.slidingmenu.example:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.sliding.slidingmenu.example:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.sliding.slidingmenu.example:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -14750,7 +14750,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:closeIcon
+     * @attr name com.sliding.slidingmenu.example:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -14763,7 +14763,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:commitIcon
+     * @attr name com.sliding.slidingmenu.example:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -14775,7 +14775,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:defaultQueryHint
+     * @attr name com.sliding.slidingmenu.example:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -14788,7 +14788,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:goIcon
+     * @attr name com.sliding.slidingmenu.example:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -14800,7 +14800,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:iconifiedByDefault
+     * @attr name com.sliding.slidingmenu.example:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -14813,7 +14813,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:layout
+     * @attr name com.sliding.slidingmenu.example:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -14826,7 +14826,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:queryBackground
+     * @attr name com.sliding.slidingmenu.example:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -14837,7 +14837,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:queryHint
+     * @attr name com.sliding.slidingmenu.example:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -14850,7 +14850,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:searchHintIcon
+     * @attr name com.sliding.slidingmenu.example:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -14863,7 +14863,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:searchIcon
+     * @attr name com.sliding.slidingmenu.example:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -14876,7 +14876,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:submitBackground
+     * @attr name com.sliding.slidingmenu.example:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -14889,7 +14889,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:suggestionRowLayout
+     * @attr name com.sliding.slidingmenu.example:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -14902,7 +14902,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:voiceIcon
+     * @attr name com.sliding.slidingmenu.example:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -14912,20 +14912,20 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SlidingMenu_behindOffset com.jeremyfeinstein.slidingmenu.example:behindOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_behindScrollScale com.jeremyfeinstein.slidingmenu.example:behindScrollScale}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_behindWidth com.jeremyfeinstein.slidingmenu.example:behindWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_fadeDegree com.jeremyfeinstein.slidingmenu.example:fadeDegree}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_fadeEnabled com.jeremyfeinstein.slidingmenu.example:fadeEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_mode com.jeremyfeinstein.slidingmenu.example:mode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_selectorDrawable com.jeremyfeinstein.slidingmenu.example:selectorDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_selectorEnabled com.jeremyfeinstein.slidingmenu.example:selectorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_shadowDrawable com.jeremyfeinstein.slidingmenu.example:shadowDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_shadowWidth com.jeremyfeinstein.slidingmenu.example:shadowWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_touchModeAbove com.jeremyfeinstein.slidingmenu.example:touchModeAbove}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_touchModeBehind com.jeremyfeinstein.slidingmenu.example:touchModeBehind}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_viewAbove com.jeremyfeinstein.slidingmenu.example:viewAbove}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SlidingMenu_viewBehind com.jeremyfeinstein.slidingmenu.example:viewBehind}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_behindOffset com.sliding.slidingmenu.example:behindOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_behindScrollScale com.sliding.slidingmenu.example:behindScrollScale}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_behindWidth com.sliding.slidingmenu.example:behindWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_fadeDegree com.sliding.slidingmenu.example:fadeDegree}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_fadeEnabled com.sliding.slidingmenu.example:fadeEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_mode com.sliding.slidingmenu.example:mode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_selectorDrawable com.sliding.slidingmenu.example:selectorDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_selectorEnabled com.sliding.slidingmenu.example:selectorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_shadowDrawable com.sliding.slidingmenu.example:shadowDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_shadowWidth com.sliding.slidingmenu.example:shadowWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_touchModeAbove com.sliding.slidingmenu.example:touchModeAbove}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_touchModeBehind com.sliding.slidingmenu.example:touchModeBehind}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_viewAbove com.sliding.slidingmenu.example:viewAbove}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SlidingMenu_viewBehind com.sliding.slidingmenu.example:viewBehind}</code></td><td></td></tr>
      * </table>
      * @see #SlidingMenu_behindOffset
      * @see #SlidingMenu_behindScrollScale
@@ -14949,7 +14949,7 @@ public final class R {
       0x7f0401dd, 0x7f0401de
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behindOffset}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behindOffset}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14958,20 +14958,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behindOffset
+     * @attr name com.sliding.slidingmenu.example:behindOffset
      */
     public static final int SlidingMenu_behindOffset=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behindScrollScale}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behindScrollScale}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behindScrollScale
+     * @attr name com.sliding.slidingmenu.example:behindScrollScale
      */
     public static final int SlidingMenu_behindScrollScale=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#behindWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#behindWidth}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14980,30 +14980,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:behindWidth
+     * @attr name com.sliding.slidingmenu.example:behindWidth
      */
     public static final int SlidingMenu_behindWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fadeDegree}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fadeDegree}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fadeDegree
+     * @attr name com.sliding.slidingmenu.example:fadeDegree
      */
     public static final int SlidingMenu_fadeDegree=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#fadeEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#fadeEnabled}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fadeEnabled
+     * @attr name com.sliding.slidingmenu.example:fadeEnabled
      */
     public static final int SlidingMenu_fadeEnabled=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#mode}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#mode}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15016,11 +15016,11 @@ public final class R {
      * <tr><td>right</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:mode
+     * @attr name com.sliding.slidingmenu.example:mode
      */
     public static final int SlidingMenu_mode=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#selectorDrawable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#selectorDrawable}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15028,21 +15028,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:selectorDrawable
+     * @attr name com.sliding.slidingmenu.example:selectorDrawable
      */
     public static final int SlidingMenu_selectorDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#selectorEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#selectorEnabled}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:selectorEnabled
+     * @attr name com.sliding.slidingmenu.example:selectorEnabled
      */
     public static final int SlidingMenu_selectorEnabled=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#shadowDrawable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#shadowDrawable}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15050,11 +15050,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:shadowDrawable
+     * @attr name com.sliding.slidingmenu.example:shadowDrawable
      */
     public static final int SlidingMenu_shadowDrawable=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#shadowWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#shadowWidth}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15063,11 +15063,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:shadowWidth
+     * @attr name com.sliding.slidingmenu.example:shadowWidth
      */
     public static final int SlidingMenu_shadowWidth=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#touchModeAbove}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#touchModeAbove}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15081,11 +15081,11 @@ public final class R {
      * <tr><td>none</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:touchModeAbove
+     * @attr name com.sliding.slidingmenu.example:touchModeAbove
      */
     public static final int SlidingMenu_touchModeAbove=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#touchModeBehind}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#touchModeBehind}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15099,11 +15099,11 @@ public final class R {
      * <tr><td>none</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:touchModeBehind
+     * @attr name com.sliding.slidingmenu.example:touchModeBehind
      */
     public static final int SlidingMenu_touchModeBehind=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#viewAbove}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#viewAbove}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15111,11 +15111,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:viewAbove
+     * @attr name com.sliding.slidingmenu.example:viewAbove
      */
     public static final int SlidingMenu_viewAbove=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#viewBehind}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#viewBehind}
      * attribute's value can be found in the {@link #SlidingMenu} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15123,7 +15123,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:viewBehind
+     * @attr name com.sliding.slidingmenu.example:viewBehind
      */
     public static final int SlidingMenu_viewBehind=13;
     /**
@@ -15133,8 +15133,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.jeremyfeinstein.slidingmenu.example:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.jeremyfeinstein.slidingmenu.example:snackbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.sliding.slidingmenu.example:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.sliding.slidingmenu.example:snackbarStyle}</code></td><td></td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -15143,7 +15143,7 @@ public final class R {
       0x7f040169, 0x7f04016a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15151,11 +15151,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:snackbarButtonStyle
+     * @attr name com.sliding.slidingmenu.example:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15163,7 +15163,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:snackbarStyle
+     * @attr name com.sliding.slidingmenu.example:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -15174,8 +15174,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.jeremyfeinstein.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.jeremyfeinstein.slidingmenu.example:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.sliding.slidingmenu.example:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.sliding.slidingmenu.example:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -15208,11 +15208,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:elevation
+     * @attr name com.sliding.slidingmenu.example:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15221,7 +15221,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:maxActionInlineWidth
+     * @attr name com.sliding.slidingmenu.example:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -15235,7 +15235,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.jeremyfeinstein.slidingmenu.example:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.sliding.slidingmenu.example:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -15324,7 +15324,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:popupTheme
+     * @attr name com.sliding.slidingmenu.example:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -15464,17 +15464,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.jeremyfeinstein.slidingmenu.example:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.jeremyfeinstein.slidingmenu.example:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.jeremyfeinstein.slidingmenu.example:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.jeremyfeinstein.slidingmenu.example:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.jeremyfeinstein.slidingmenu.example:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.jeremyfeinstein.slidingmenu.example:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.jeremyfeinstein.slidingmenu.example:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.jeremyfeinstein.slidingmenu.example:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.jeremyfeinstein.slidingmenu.example:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.jeremyfeinstein.slidingmenu.example:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.jeremyfeinstein.slidingmenu.example:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.sliding.slidingmenu.example:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.sliding.slidingmenu.example:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.sliding.slidingmenu.example:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.sliding.slidingmenu.example:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.sliding.slidingmenu.example:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.sliding.slidingmenu.example:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.sliding.slidingmenu.example:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.sliding.slidingmenu.example:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.sliding.slidingmenu.example:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.sliding.slidingmenu.example:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.sliding.slidingmenu.example:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -15540,7 +15540,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:showText
+     * @attr name com.sliding.slidingmenu.example:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -15551,7 +15551,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:splitTrack
+     * @attr name com.sliding.slidingmenu.example:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -15565,7 +15565,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:switchMinWidth
+     * @attr name com.sliding.slidingmenu.example:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -15579,7 +15579,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:switchPadding
+     * @attr name com.sliding.slidingmenu.example:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -15592,7 +15592,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:switchTextAppearance
+     * @attr name com.sliding.slidingmenu.example:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -15606,7 +15606,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:thumbTextPadding
+     * @attr name com.sliding.slidingmenu.example:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -15618,7 +15618,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:thumbTint
+     * @attr name com.sliding.slidingmenu.example:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -15645,7 +15645,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:thumbTintMode
+     * @attr name com.sliding.slidingmenu.example:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -15658,7 +15658,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:track
+     * @attr name com.sliding.slidingmenu.example:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -15670,7 +15670,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:trackTint
+     * @attr name com.sliding.slidingmenu.example:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -15697,7 +15697,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:trackTintMode
+     * @attr name com.sliding.slidingmenu.example:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -15759,31 +15759,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.jeremyfeinstein.slidingmenu.example:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.jeremyfeinstein.slidingmenu.example:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.jeremyfeinstein.slidingmenu.example:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.jeremyfeinstein.slidingmenu.example:tabIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.jeremyfeinstein.slidingmenu.example:tabIconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.jeremyfeinstein.slidingmenu.example:tabIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.jeremyfeinstein.slidingmenu.example:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.jeremyfeinstein.slidingmenu.example:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.jeremyfeinstein.slidingmenu.example:tabIndicatorFullWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.jeremyfeinstein.slidingmenu.example:tabIndicatorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.jeremyfeinstein.slidingmenu.example:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.jeremyfeinstein.slidingmenu.example:tabInlineLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.jeremyfeinstein.slidingmenu.example:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.jeremyfeinstein.slidingmenu.example:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.jeremyfeinstein.slidingmenu.example:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.jeremyfeinstein.slidingmenu.example:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.jeremyfeinstein.slidingmenu.example:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.jeremyfeinstein.slidingmenu.example:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.jeremyfeinstein.slidingmenu.example:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.jeremyfeinstein.slidingmenu.example:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.jeremyfeinstein.slidingmenu.example:tabRippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.jeremyfeinstein.slidingmenu.example:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.jeremyfeinstein.slidingmenu.example:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.jeremyfeinstein.slidingmenu.example:tabTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.jeremyfeinstein.slidingmenu.example:tabUnboundedRipple}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.sliding.slidingmenu.example:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.sliding.slidingmenu.example:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.sliding.slidingmenu.example:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.sliding.slidingmenu.example:tabIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.sliding.slidingmenu.example:tabIconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.sliding.slidingmenu.example:tabIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.sliding.slidingmenu.example:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.sliding.slidingmenu.example:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.sliding.slidingmenu.example:tabIndicatorFullWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.sliding.slidingmenu.example:tabIndicatorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.sliding.slidingmenu.example:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.sliding.slidingmenu.example:tabInlineLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.sliding.slidingmenu.example:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.sliding.slidingmenu.example:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.sliding.slidingmenu.example:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.sliding.slidingmenu.example:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.sliding.slidingmenu.example:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.sliding.slidingmenu.example:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.sliding.slidingmenu.example:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.sliding.slidingmenu.example:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.sliding.slidingmenu.example:tabRippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.sliding.slidingmenu.example:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.sliding.slidingmenu.example:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.sliding.slidingmenu.example:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.sliding.slidingmenu.example:tabUnboundedRipple}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -15821,7 +15821,7 @@ public final class R {
       0x7f04019f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15829,11 +15829,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabBackground
+     * @attr name com.sliding.slidingmenu.example:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15842,11 +15842,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabContentStart
+     * @attr name com.sliding.slidingmenu.example:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15859,22 +15859,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabGravity
+     * @attr name com.sliding.slidingmenu.example:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabIconTint
+     * @attr name com.sliding.slidingmenu.example:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15891,11 +15891,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabIconTintMode
+     * @attr name com.sliding.slidingmenu.example:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15903,41 +15903,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabIndicator
+     * @attr name com.sliding.slidingmenu.example:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabIndicatorAnimationDuration
+     * @attr name com.sliding.slidingmenu.example:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabIndicatorColor
+     * @attr name com.sliding.slidingmenu.example:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabIndicatorFullWidth
+     * @attr name com.sliding.slidingmenu.example:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15952,11 +15952,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabIndicatorGravity
+     * @attr name com.sliding.slidingmenu.example:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15965,21 +15965,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabIndicatorHeight
+     * @attr name com.sliding.slidingmenu.example:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabInlineLabel
+     * @attr name com.sliding.slidingmenu.example:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15988,11 +15988,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabMaxWidth
+     * @attr name com.sliding.slidingmenu.example:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16001,11 +16001,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabMinWidth
+     * @attr name com.sliding.slidingmenu.example:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16018,11 +16018,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabMode
+     * @attr name com.sliding.slidingmenu.example:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16031,11 +16031,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabPadding
+     * @attr name com.sliding.slidingmenu.example:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16044,11 +16044,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabPaddingBottom
+     * @attr name com.sliding.slidingmenu.example:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16057,11 +16057,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabPaddingEnd
+     * @attr name com.sliding.slidingmenu.example:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16070,11 +16070,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabPaddingStart
+     * @attr name com.sliding.slidingmenu.example:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16083,33 +16083,33 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabPaddingTop
+     * @attr name com.sliding.slidingmenu.example:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabRippleColor
+     * @attr name com.sliding.slidingmenu.example:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabSelectedTextColor
+     * @attr name com.sliding.slidingmenu.example:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16117,28 +16117,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabTextAppearance
+     * @attr name com.sliding.slidingmenu.example:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabTextColor
+     * @attr name com.sliding.slidingmenu.example:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:tabUnboundedRipple
+     * @attr name com.sliding.slidingmenu.example:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -16159,8 +16159,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.jeremyfeinstein.slidingmenu.example:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.jeremyfeinstein.slidingmenu.example:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.sliding.slidingmenu.example:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.sliding.slidingmenu.example:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -16333,7 +16333,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:fontFamily
+     * @attr name com.sliding.slidingmenu.example:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
@@ -16348,7 +16348,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:textAllCaps
+     * @attr name com.sliding.slidingmenu.example:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -16360,32 +16360,32 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.jeremyfeinstein.slidingmenu.example:boxBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.jeremyfeinstein.slidingmenu.example:boxBackgroundMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.jeremyfeinstein.slidingmenu.example:boxCollapsedPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.jeremyfeinstein.slidingmenu.example:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.jeremyfeinstein.slidingmenu.example:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.jeremyfeinstein.slidingmenu.example:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.jeremyfeinstein.slidingmenu.example:boxCornerRadiusTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.jeremyfeinstein.slidingmenu.example:boxStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.jeremyfeinstein.slidingmenu.example:boxStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.jeremyfeinstein.slidingmenu.example:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.jeremyfeinstein.slidingmenu.example:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.jeremyfeinstein.slidingmenu.example:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.jeremyfeinstein.slidingmenu.example:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.jeremyfeinstein.slidingmenu.example:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.jeremyfeinstein.slidingmenu.example:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.jeremyfeinstein.slidingmenu.example:helperText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.jeremyfeinstein.slidingmenu.example:helperTextEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.jeremyfeinstein.slidingmenu.example:helperTextTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.jeremyfeinstein.slidingmenu.example:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.jeremyfeinstein.slidingmenu.example:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.jeremyfeinstein.slidingmenu.example:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.jeremyfeinstein.slidingmenu.example:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.jeremyfeinstein.slidingmenu.example:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.jeremyfeinstein.slidingmenu.example:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.jeremyfeinstein.slidingmenu.example:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.jeremyfeinstein.slidingmenu.example:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.sliding.slidingmenu.example:boxBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.sliding.slidingmenu.example:boxBackgroundMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.sliding.slidingmenu.example:boxCollapsedPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.sliding.slidingmenu.example:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.sliding.slidingmenu.example:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.sliding.slidingmenu.example:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.sliding.slidingmenu.example:boxCornerRadiusTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.sliding.slidingmenu.example:boxStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.sliding.slidingmenu.example:boxStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.sliding.slidingmenu.example:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.sliding.slidingmenu.example:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.sliding.slidingmenu.example:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.sliding.slidingmenu.example:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.sliding.slidingmenu.example:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.sliding.slidingmenu.example:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.sliding.slidingmenu.example:helperText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.sliding.slidingmenu.example:helperTextEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.sliding.slidingmenu.example:helperTextTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.sliding.slidingmenu.example:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.sliding.slidingmenu.example:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.sliding.slidingmenu.example:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.sliding.slidingmenu.example:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.sliding.slidingmenu.example:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.sliding.slidingmenu.example:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.sliding.slidingmenu.example:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.sliding.slidingmenu.example:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -16451,18 +16451,18 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxBackgroundColor
+     * @attr name com.sliding.slidingmenu.example:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16476,11 +16476,11 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxBackgroundMode
+     * @attr name com.sliding.slidingmenu.example:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16489,11 +16489,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxCollapsedPaddingTop
+     * @attr name com.sliding.slidingmenu.example:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16502,11 +16502,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxCornerRadiusBottomEnd
+     * @attr name com.sliding.slidingmenu.example:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16515,11 +16515,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxCornerRadiusBottomStart
+     * @attr name com.sliding.slidingmenu.example:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16528,11 +16528,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxCornerRadiusTopEnd
+     * @attr name com.sliding.slidingmenu.example:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16541,22 +16541,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxCornerRadiusTopStart
+     * @attr name com.sliding.slidingmenu.example:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxStrokeColor
+     * @attr name com.sliding.slidingmenu.example:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16565,30 +16565,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:boxStrokeWidth
+     * @attr name com.sliding.slidingmenu.example:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:counterEnabled
+     * @attr name com.sliding.slidingmenu.example:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:counterMaxLength
+     * @attr name com.sliding.slidingmenu.example:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16596,11 +16596,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:counterOverflowTextAppearance
+     * @attr name com.sliding.slidingmenu.example:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16608,21 +16608,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:counterTextAppearance
+     * @attr name com.sliding.slidingmenu.example:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:errorEnabled
+     * @attr name com.sliding.slidingmenu.example:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16630,31 +16630,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:errorTextAppearance
+     * @attr name com.sliding.slidingmenu.example:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:helperText
+     * @attr name com.sliding.slidingmenu.example:helperText
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:helperTextEnabled
+     * @attr name com.sliding.slidingmenu.example:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16662,31 +16662,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:helperTextTextAppearance
+     * @attr name com.sliding.slidingmenu.example:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:hintAnimationEnabled
+     * @attr name com.sliding.slidingmenu.example:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:hintEnabled
+     * @attr name com.sliding.slidingmenu.example:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16694,21 +16694,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:hintTextAppearance
+     * @attr name com.sliding.slidingmenu.example:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:passwordToggleContentDescription
+     * @attr name com.sliding.slidingmenu.example:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16716,32 +16716,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:passwordToggleDrawable
+     * @attr name com.sliding.slidingmenu.example:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:passwordToggleEnabled
+     * @attr name com.sliding.slidingmenu.example:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:passwordToggleTint
+     * @attr name com.sliding.slidingmenu.example:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16757,7 +16757,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:passwordToggleTintMode
+     * @attr name com.sliding.slidingmenu.example:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=27;
     /**
@@ -16768,8 +16768,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.jeremyfeinstein.slidingmenu.example:enforceMaterialTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.jeremyfeinstein.slidingmenu.example:enforceTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.sliding.slidingmenu.example:enforceMaterialTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.sliding.slidingmenu.example:enforceTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
      * @see #ThemeEnforcement_enforceMaterialTheme
@@ -16791,23 +16791,23 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:enforceMaterialTheme
+     * @attr name com.sliding.slidingmenu.example:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:enforceTextAppearance
+     * @attr name com.sliding.slidingmenu.example:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -16819,40 +16819,40 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.jeremyfeinstein.slidingmenu.example:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.jeremyfeinstein.slidingmenu.example:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.jeremyfeinstein.slidingmenu.example:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.jeremyfeinstein.slidingmenu.example:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.jeremyfeinstein.slidingmenu.example:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.sliding.slidingmenu.example:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.sliding.slidingmenu.example:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.sliding.slidingmenu.example:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.sliding.slidingmenu.example:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.sliding.slidingmenu.example:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.jeremyfeinstein.slidingmenu.example:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.jeremyfeinstein.slidingmenu.example:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.jeremyfeinstein.slidingmenu.example:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.jeremyfeinstein.slidingmenu.example:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.sliding.slidingmenu.example:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.sliding.slidingmenu.example:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.sliding.slidingmenu.example:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.sliding.slidingmenu.example:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.jeremyfeinstein.slidingmenu.example:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.jeremyfeinstein.slidingmenu.example:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.sliding.slidingmenu.example:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.sliding.slidingmenu.example:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.jeremyfeinstein.slidingmenu.example:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.jeremyfeinstein.slidingmenu.example:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.sliding.slidingmenu.example:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.sliding.slidingmenu.example:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.jeremyfeinstein.slidingmenu.example:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.sliding.slidingmenu.example:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.jeremyfeinstein.slidingmenu.example:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.sliding.slidingmenu.example:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.jeremyfeinstein.slidingmenu.example:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.jeremyfeinstein.slidingmenu.example:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.jeremyfeinstein.slidingmenu.example:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.jeremyfeinstein.slidingmenu.example:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.jeremyfeinstein.slidingmenu.example:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.sliding.slidingmenu.example:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.sliding.slidingmenu.example:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.sliding.slidingmenu.example:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.sliding.slidingmenu.example:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.sliding.slidingmenu.example:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.jeremyfeinstein.slidingmenu.example:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.jeremyfeinstein.slidingmenu.example:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.jeremyfeinstein.slidingmenu.example:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.jeremyfeinstein.slidingmenu.example:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.jeremyfeinstein.slidingmenu.example:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.jeremyfeinstein.slidingmenu.example:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.jeremyfeinstein.slidingmenu.example:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.sliding.slidingmenu.example:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.sliding.slidingmenu.example:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.sliding.slidingmenu.example:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.sliding.slidingmenu.example:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.sliding.slidingmenu.example:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.sliding.slidingmenu.example:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.sliding.slidingmenu.example:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -16938,7 +16938,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16951,7 +16951,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:buttonGravity
+     * @attr name com.sliding.slidingmenu.example:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -16962,7 +16962,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:collapseContentDescription
+     * @attr name com.sliding.slidingmenu.example:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -16975,7 +16975,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:collapseIcon
+     * @attr name com.sliding.slidingmenu.example:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -16990,7 +16990,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetEnd
+     * @attr name com.sliding.slidingmenu.example:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -17005,7 +17005,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetEndWithActions
+     * @attr name com.sliding.slidingmenu.example:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -17020,7 +17020,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetLeft
+     * @attr name com.sliding.slidingmenu.example:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -17035,7 +17035,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetRight
+     * @attr name com.sliding.slidingmenu.example:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -17050,7 +17050,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetStart
+     * @attr name com.sliding.slidingmenu.example:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -17065,7 +17065,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:contentInsetStartWithNavigation
+     * @attr name com.sliding.slidingmenu.example:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -17079,7 +17079,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:logo
+     * @attr name com.sliding.slidingmenu.example:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -17091,11 +17091,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:logoDescription
+     * @attr name com.sliding.slidingmenu.example:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17104,7 +17104,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:maxButtonHeight
+     * @attr name com.sliding.slidingmenu.example:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -17116,7 +17116,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:navigationContentDescription
+     * @attr name com.sliding.slidingmenu.example:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
@@ -17130,7 +17130,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:navigationIcon
+     * @attr name com.sliding.slidingmenu.example:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
@@ -17144,7 +17144,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:popupTheme
+     * @attr name com.sliding.slidingmenu.example:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
@@ -17155,11 +17155,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:subtitle
+     * @attr name com.sliding.slidingmenu.example:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17167,7 +17167,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:subtitleTextAppearance
+     * @attr name com.sliding.slidingmenu.example:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
@@ -17179,17 +17179,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:subtitleTextColor
+     * @attr name com.sliding.slidingmenu.example:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:title
+     * @attr name com.sliding.slidingmenu.example:title
      */
     public static final int Toolbar_title=20;
     /**
@@ -17204,7 +17204,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleMargin
+     * @attr name com.sliding.slidingmenu.example:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
@@ -17220,7 +17220,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleMarginBottom
+     * @attr name com.sliding.slidingmenu.example:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
@@ -17236,7 +17236,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleMarginEnd
+     * @attr name com.sliding.slidingmenu.example:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
@@ -17252,7 +17252,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleMarginStart
+     * @attr name com.sliding.slidingmenu.example:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
@@ -17268,7 +17268,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleMarginTop
+     * @attr name com.sliding.slidingmenu.example:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
@@ -17282,12 +17282,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleMargins
+     * @attr name com.sliding.slidingmenu.example:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.example.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.sliding.slidingmenu.example.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17295,7 +17295,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleTextAppearance
+     * @attr name com.sliding.slidingmenu.example:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
@@ -17307,7 +17307,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:titleTextColor
+     * @attr name com.sliding.slidingmenu.example:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -17319,9 +17319,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.jeremyfeinstein.slidingmenu.example:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.jeremyfeinstein.slidingmenu.example:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.jeremyfeinstein.slidingmenu.example:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.sliding.slidingmenu.example:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.sliding.slidingmenu.example:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.sliding.slidingmenu.example:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -17383,7 +17383,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:paddingEnd
+     * @attr name com.sliding.slidingmenu.example:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -17397,7 +17397,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:paddingStart
+     * @attr name com.sliding.slidingmenu.example:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -17410,7 +17410,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:theme
+     * @attr name com.sliding.slidingmenu.example:theme
      */
     public static final int View_theme=4;
     /**
@@ -17421,8 +17421,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.jeremyfeinstein.slidingmenu.example:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.jeremyfeinstein.slidingmenu.example:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.sliding.slidingmenu.example:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.sliding.slidingmenu.example:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -17455,7 +17455,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundTint
+     * @attr name com.sliding.slidingmenu.example:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -17482,7 +17482,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.jeremyfeinstein.slidingmenu.example:backgroundTintMode
+     * @attr name com.sliding.slidingmenu.example:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

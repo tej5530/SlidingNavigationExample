@@ -1,4 +1,4 @@
-com.jeremyfeinstein.slidingmenu.example
+com.sliding.slidingmenu.example
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom

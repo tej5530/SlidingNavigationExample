@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.1"
 
     defaultConfig {
-        applicationId "com.jeremyfeinstein.slidingmenu.example"
+        applicationId "com.sliding.slidingmenu.example"
         minSdkVersion 14
         targetSdkVersion 28
     }

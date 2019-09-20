@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.jeremyfeinstein.slidingmenu.example"
+3    package="com.sliding.slidingmenu.example"
 4    android:versionCode="3"
 5    android:versionName="1.2" >
 6
@@ -18,78 +18,79 @@
 13    <application
 13-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:11:5-42:19
 14        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-14-->[com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3c7e22baf9e5396f6acc2aad09d8bb98\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+14-->[com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a2ae9b920f1257f286b7db526bcfd47f\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 15        android:debuggable="true"
 16        android:icon="@drawable/ic_launcher"
 16-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:12:9-45
 17        android:label="@string/app_name"
 17-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:13:9-41
-18        android:theme="@style/ExampleTheme" >
-18-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:14:9-44
-19        <activity
-19-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:15:9-25:20
-20            android:name="com.sliding.slidingmenu.example.ExampleListActivity"
-20-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:16:13-79
-21            android:configChanges="orientation|screenSize|screenLayout"
-21-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:17:13-72
-22            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
-22-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:18:13-71
-23            android:uiOptions="splitActionBarWhenNarrow" >
-23-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:19:13-57
-24            <intent-filter>
-24-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:20:13-24:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:21:17-69
-25-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:21:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:23:17-77
-27-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:23:27-74
-28            </intent-filter>
-29        </activity>
-30        <activity android:name="com.sliding.slidingmenu.example.PropertiesActivity" />
-30-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:26:9-87
-30-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:26:19-84
-31        <activity android:name="com.sliding.slidingmenu.example.LeftAndRightActivity" />
-31-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:27:9-89
-31-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:27:19-86
-32        <activity android:name="com.sliding.slidingmenu.example.AttachExample" />
-32-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:28:9-82
-32-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:28:19-79
-33        <activity android:name="com.sliding.slidingmenu.example.anim.CustomScaleAnimation" />
-33-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:29:9-94
-33-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:29:19-91
-34        <activity android:name="com.sliding.slidingmenu.example.anim.CustomZoomAnimation" />
-34-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:30:9-93
-34-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:30:19-90
-35        <!-- <activity android:name=".anim.CustomRotateAnimation" /> -->
-36        <activity android:name="com.sliding.slidingmenu.example.anim.CustomSlideAnimation" />
-36-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:32:9-94
-36-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:32:19-91
-37        <activity android:name="com.sliding.slidingmenu.example.SlidingTitleBar" />
-37-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:33:9-84
-37-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:33:19-81
-38        <activity android:name="com.sliding.slidingmenu.example.SlidingContent" />
-38-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:34:9-83
-38-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:34:19-80
-39        <activity android:name="com.sliding.slidingmenu.example.ViewPagerActivity" />
-39-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:35:9-86
-39-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:35:19-83
-40        <activity android:name="com.sliding.slidingmenu.example.fragments.FragmentChangeActivity" />
-40-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:36:9-101
-40-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:36:19-98
-41        <activity android:name="com.sliding.slidingmenu.example.fragments.ResponsiveUIActivity" />
-41-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:37:9-99
-41-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:37:19-96
-42        <activity
-42-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:38:9-40:74
-43            android:name="com.sliding.slidingmenu.example.fragments.BirdActivity"
-43-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:39:13-82
-44            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
-44-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:40:13-71
-45        <activity android:name="com.crittercism.NotificationActivity" />
-45-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:41:9-72
-45-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:41:19-70
-46    </application>
-47
-48</manifest>
+18        android:testOnly="true"
+19        android:theme="@style/ExampleTheme" >
+19-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:14:9-44
+20        <activity
+20-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:15:9-25:20
+21            android:name="com.sliding.slidingmenu.example.ExampleListActivity"
+21-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:16:13-79
+22            android:configChanges="orientation|screenSize|screenLayout"
+22-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:17:13-72
+23            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+23-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:18:13-71
+24            android:uiOptions="splitActionBarWhenNarrow" >
+24-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:19:13-57
+25            <intent-filter>
+25-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:20:13-24:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:21:17-69
+26-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:21:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:23:17-77
+28-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:23:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.sliding.slidingmenu.example.PropertiesActivity" />
+31-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:26:9-87
+31-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:26:19-84
+32        <activity android:name="com.sliding.slidingmenu.example.LeftAndRightActivity" />
+32-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:27:9-89
+32-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:27:19-86
+33        <activity android:name="com.sliding.slidingmenu.example.AttachExample" />
+33-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:28:9-82
+33-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:28:19-79
+34        <activity android:name="com.sliding.slidingmenu.example.anim.CustomScaleAnimation" />
+34-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:29:9-94
+34-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:29:19-91
+35        <activity android:name="com.sliding.slidingmenu.example.anim.CustomZoomAnimation" />
+35-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:30:9-93
+35-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:30:19-90
+36        <!-- <activity android:name=".anim.CustomRotateAnimation" /> -->
+37        <activity android:name="com.sliding.slidingmenu.example.anim.CustomSlideAnimation" />
+37-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:32:9-94
+37-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:32:19-91
+38        <activity android:name="com.sliding.slidingmenu.example.SlidingTitleBar" />
+38-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:33:9-84
+38-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:33:19-81
+39        <activity android:name="com.sliding.slidingmenu.example.SlidingContent" />
+39-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:34:9-83
+39-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:34:19-80
+40        <activity android:name="com.sliding.slidingmenu.example.ViewPagerActivity" />
+40-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:35:9-86
+40-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:35:19-83
+41        <activity android:name="com.sliding.slidingmenu.example.fragments.FragmentChangeActivity" />
+41-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:36:9-101
+41-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:36:19-98
+42        <activity android:name="com.sliding.slidingmenu.example.fragments.ResponsiveUIActivity" />
+42-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:37:9-99
+42-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:37:19-96
+43        <activity
+43-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:38:9-40:74
+44            android:name="com.sliding.slidingmenu.example.fragments.BirdActivity"
+44-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:39:13-82
+45            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+45-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:40:13-71
+46        <activity android:name="com.crittercism.NotificationActivity" />
+46-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:41:9-72
+46-->D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:41:19-70
+47    </application>
+48
+49</manifest>

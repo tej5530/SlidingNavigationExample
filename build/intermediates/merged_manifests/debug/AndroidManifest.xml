@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jeremyfeinstein.slidingmenu.example"
+    package="com.sliding.slidingmenu.example"
     android:versionCode="3"
     android:versionName="1.2" >
 
@@ -15,6 +15,7 @@
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/ExampleTheme" >
         <activity
             android:name="com.sliding.slidingmenu.example.ExampleListActivity"

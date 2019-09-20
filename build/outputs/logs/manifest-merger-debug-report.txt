@@ -5,38 +5,38 @@ INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\exampl
 INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:2:1-44:12
 INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:2:1-44:12
 MERGED from [:library] D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5db0d370fad8ab8059351795326414b2\design-28.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5f1d3fbec703e8996db02acb387ad251\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b7680e92c342d6429cc21ab1e8684e25\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7e6c486d2827d4faead3a1fa5095fbe4\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c7dbb17af1c2ad297c202b1b78857052\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\782ecaaf5567dfa13f21f350bd7f0dc7\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\89d9d945ba6f80496f15de7b4a15f515\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\dbb49e1f130eeeee81370de687f43c5e\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f87418d09f644ed4a5a1c0fcd6894e87\transition-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\6d6ddfe9bc91738b52035adbb5d39412\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\db7e8cd3cb6b13552c1b7a3ce01e3b53\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\def43b913d39c243e5bf06980ef9766b\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b71126661897f1a7758b3929179922e7\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\22600bd1e3eeda6662d19b7ab2b50251\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\66061c172628cb63b793744ee879bcdf\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\91b0cfce3917dc51e3fa5f834808468b\customview-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\db0c22f854fff675817caea0e0eaa0b8\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5f6f43d6edf992dc972c15dd1951d128\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b8ecf271f5aaea29f071ed14e745f439\loader-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3c7e22baf9e5396f6acc2aad09d8bb98\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7695febc66687b4b09c7269824181983\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\261dc9e7508285e05b02ef61466b5fe5\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7a79dc1f8893723f1e4490363e9006d7\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f9c3ee79b8985ec60dc534ab87b6d552\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\2a55134c3a0e0bae2d6a7142cef55929\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\cc7ecaa963d6ab7ee48793e78f1761b1\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\408bbdf23f65d91a0474d41905662933\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0091283abbba6a8e945d287f3d457238\print-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\32301c5722cad6f063b769de5084979c\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\55887212c6580e646b679c168b23a4b0\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c3de6c5fc7ed0cc9b946b252c50ce266\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3fa84bf2d3c561146d8d164790742944\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3a32a5407d38b3f3e0359e513e71851b\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a545dcd9e6667c807a5aecc4fc8a2e49\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\ad802b5b84fb189552bf3f62e2b1b62b\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b4c3ea09e6df4c1b60360e3e6f1e99e1\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\d97bd3daaf4650ac49cd784f6a970aff\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\15ef6b42a1c8609b75404e8aa1cdb98f\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0340f6396c2a7acac09351d767b6350e\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f476d13df7147f1f2145a1ac6b4d5466\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\1add7caa81d52c17cca33ac92f50c583\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\aeaeb14565b866f821a607b70a5c63d6\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\240f54036f353bafac76f42294905e1a\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7a4ddcf0645bbdbb9ee6dcabab90a131\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\75b81b37cc645c9bab9a95835ffdd321\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3d99c5945b2c9e60abea3ccebe3b1681\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\90b9f02c533cb0bfe6a635b6a93f8f57\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\aeeabb31979f6ecbdff0d4c8173e9d99\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\d4874ad10298aed86ffe57347271c553\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c7848b543dadc473679e7ed28c6fcaa7\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\642401dc0a69a48af3a5416cd92926dc\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a2ae9b920f1257f286b7db526bcfd47f\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\20123f8a80e133df4e4d720f694d9651\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\2704c2746996db6ac95fa2a9b2bf2383\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\782f2ad53090f72f3ab934bc83a8742c\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\39352c2e29b1913909dac9d223ca790f\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7cad2ec34478854acdecfc5848bc4b91\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0a2a950d1ebf1e567df5821e2fe375ff\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\020f0cfe347da7d3c46895b8f8769bfe\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c2c3d5aceb845bf42f015d8bf559ccce\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\080d1b50b3abf025c94e81e15ca6fd3d\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\bb6978fe6acc160593cad8fa12b69c71\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\fe7275ba56bd1dc63ce7324c78b1e3ac\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\9b158ba3d407b7e74893b22f7481eeaf\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
 INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:2:1-44:12
 INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:2:1-44:12
 INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:2:1-44:12
@@ -60,70 +60,70 @@ INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\exampl
 INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:7:5-47
 MERGED from [:library] D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:library] D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5db0d370fad8ab8059351795326414b2\design-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5db0d370fad8ab8059351795326414b2\design-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5f1d3fbec703e8996db02acb387ad251\support-v4-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5f1d3fbec703e8996db02acb387ad251\support-v4-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b7680e92c342d6429cc21ab1e8684e25\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b7680e92c342d6429cc21ab1e8684e25\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7e6c486d2827d4faead3a1fa5095fbe4\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7e6c486d2827d4faead3a1fa5095fbe4\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c7dbb17af1c2ad297c202b1b78857052\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c7dbb17af1c2ad297c202b1b78857052\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\782ecaaf5567dfa13f21f350bd7f0dc7\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\782ecaaf5567dfa13f21f350bd7f0dc7\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\89d9d945ba6f80496f15de7b4a15f515\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\89d9d945ba6f80496f15de7b4a15f515\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\dbb49e1f130eeeee81370de687f43c5e\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\dbb49e1f130eeeee81370de687f43c5e\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f87418d09f644ed4a5a1c0fcd6894e87\transition-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f87418d09f644ed4a5a1c0fcd6894e87\transition-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\6d6ddfe9bc91738b52035adbb5d39412\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\6d6ddfe9bc91738b52035adbb5d39412\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\db7e8cd3cb6b13552c1b7a3ce01e3b53\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\db7e8cd3cb6b13552c1b7a3ce01e3b53\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\def43b913d39c243e5bf06980ef9766b\viewpager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\def43b913d39c243e5bf06980ef9766b\viewpager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b71126661897f1a7758b3929179922e7\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b71126661897f1a7758b3929179922e7\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\22600bd1e3eeda6662d19b7ab2b50251\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\22600bd1e3eeda6662d19b7ab2b50251\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\66061c172628cb63b793744ee879bcdf\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\66061c172628cb63b793744ee879bcdf\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\91b0cfce3917dc51e3fa5f834808468b\customview-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\91b0cfce3917dc51e3fa5f834808468b\customview-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\db0c22f854fff675817caea0e0eaa0b8\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\db0c22f854fff675817caea0e0eaa0b8\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5f6f43d6edf992dc972c15dd1951d128\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5f6f43d6edf992dc972c15dd1951d128\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b8ecf271f5aaea29f071ed14e745f439\loader-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b8ecf271f5aaea29f071ed14e745f439\loader-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3c7e22baf9e5396f6acc2aad09d8bb98\support-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3c7e22baf9e5396f6acc2aad09d8bb98\support-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7695febc66687b4b09c7269824181983\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7695febc66687b4b09c7269824181983\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\261dc9e7508285e05b02ef61466b5fe5\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\261dc9e7508285e05b02ef61466b5fe5\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7a79dc1f8893723f1e4490363e9006d7\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7a79dc1f8893723f1e4490363e9006d7\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f9c3ee79b8985ec60dc534ab87b6d552\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f9c3ee79b8985ec60dc534ab87b6d552\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\2a55134c3a0e0bae2d6a7142cef55929\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\2a55134c3a0e0bae2d6a7142cef55929\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\cc7ecaa963d6ab7ee48793e78f1761b1\documentfile-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\cc7ecaa963d6ab7ee48793e78f1761b1\documentfile-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\408bbdf23f65d91a0474d41905662933\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\408bbdf23f65d91a0474d41905662933\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0091283abbba6a8e945d287f3d457238\print-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0091283abbba6a8e945d287f3d457238\print-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\32301c5722cad6f063b769de5084979c\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\32301c5722cad6f063b769de5084979c\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\55887212c6580e646b679c168b23a4b0\livedata-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\55887212c6580e646b679c168b23a4b0\livedata-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c3de6c5fc7ed0cc9b946b252c50ce266\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c3de6c5fc7ed0cc9b946b252c50ce266\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3fa84bf2d3c561146d8d164790742944\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3fa84bf2d3c561146d8d164790742944\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3a32a5407d38b3f3e0359e513e71851b\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3a32a5407d38b3f3e0359e513e71851b\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a545dcd9e6667c807a5aecc4fc8a2e49\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a545dcd9e6667c807a5aecc4fc8a2e49\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\ad802b5b84fb189552bf3f62e2b1b62b\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\ad802b5b84fb189552bf3f62e2b1b62b\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b4c3ea09e6df4c1b60360e3e6f1e99e1\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\b4c3ea09e6df4c1b60360e3e6f1e99e1\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\d97bd3daaf4650ac49cd784f6a970aff\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\d97bd3daaf4650ac49cd784f6a970aff\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\15ef6b42a1c8609b75404e8aa1cdb98f\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\15ef6b42a1c8609b75404e8aa1cdb98f\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0340f6396c2a7acac09351d767b6350e\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0340f6396c2a7acac09351d767b6350e\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f476d13df7147f1f2145a1ac6b4d5466\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\f476d13df7147f1f2145a1ac6b4d5466\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\1add7caa81d52c17cca33ac92f50c583\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\1add7caa81d52c17cca33ac92f50c583\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\aeaeb14565b866f821a607b70a5c63d6\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\aeaeb14565b866f821a607b70a5c63d6\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\240f54036f353bafac76f42294905e1a\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\240f54036f353bafac76f42294905e1a\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7a4ddcf0645bbdbb9ee6dcabab90a131\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7a4ddcf0645bbdbb9ee6dcabab90a131\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\75b81b37cc645c9bab9a95835ffdd321\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\75b81b37cc645c9bab9a95835ffdd321\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3d99c5945b2c9e60abea3ccebe3b1681\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3d99c5945b2c9e60abea3ccebe3b1681\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\90b9f02c533cb0bfe6a635b6a93f8f57\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\90b9f02c533cb0bfe6a635b6a93f8f57\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\aeeabb31979f6ecbdff0d4c8173e9d99\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\aeeabb31979f6ecbdff0d4c8173e9d99\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\d4874ad10298aed86ffe57347271c553\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\d4874ad10298aed86ffe57347271c553\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c7848b543dadc473679e7ed28c6fcaa7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c7848b543dadc473679e7ed28c6fcaa7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\642401dc0a69a48af3a5416cd92926dc\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\642401dc0a69a48af3a5416cd92926dc\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a2ae9b920f1257f286b7db526bcfd47f\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a2ae9b920f1257f286b7db526bcfd47f\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\20123f8a80e133df4e4d720f694d9651\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\20123f8a80e133df4e4d720f694d9651\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\2704c2746996db6ac95fa2a9b2bf2383\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\2704c2746996db6ac95fa2a9b2bf2383\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\782f2ad53090f72f3ab934bc83a8742c\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\782f2ad53090f72f3ab934bc83a8742c\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\39352c2e29b1913909dac9d223ca790f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\39352c2e29b1913909dac9d223ca790f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7cad2ec34478854acdecfc5848bc4b91\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\7cad2ec34478854acdecfc5848bc4b91\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0a2a950d1ebf1e567df5821e2fe375ff\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\0a2a950d1ebf1e567df5821e2fe375ff\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\020f0cfe347da7d3c46895b8f8769bfe\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\020f0cfe347da7d3c46895b8f8769bfe\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c2c3d5aceb845bf42f015d8bf559ccce\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\c2c3d5aceb845bf42f015d8bf559ccce\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\080d1b50b3abf025c94e81e15ca6fd3d\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\080d1b50b3abf025c94e81e15ca6fd3d\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\bb6978fe6acc160593cad8fa12b69c71\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\bb6978fe6acc160593cad8fa12b69c71\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\fe7275ba56bd1dc63ce7324c78b1e3ac\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\fe7275ba56bd1dc63ce7324c78b1e3ac\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\9b158ba3d407b7e74893b22f7481eeaf\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\9b158ba3d407b7e74893b22f7481eeaf\runtime-1.1.1\AndroidManifest.xml:20:5-44
 INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:7:5-47
 INJECTED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:7:5-47
 	android:targetSdkVersion
@@ -140,14 +140,14 @@ ADDED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\s
 		ADDED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:9:22-64
 application
 ADDED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:11:5-42:19
-MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5db0d370fad8ab8059351795326414b2\design-28.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\5db0d370fad8ab8059351795326414b2\design-28.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3c7e22baf9e5396f6acc2aad09d8bb98\support-compat-28.0.0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3c7e22baf9e5396f6acc2aad09d8bb98\support-compat-28.0.0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\261dc9e7508285e05b02ef61466b5fe5\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\261dc9e7508285e05b02ef61466b5fe5\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3a32a5407d38b3f3e0359e513e71851b\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3a32a5407d38b3f3e0359e513e71851b\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a2ae9b920f1257f286b7db526bcfd47f\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a2ae9b920f1257f286b7db526bcfd47f\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\2704c2746996db6ac95fa2a9b2bf2383\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\2704c2746996db6ac95fa2a9b2bf2383\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\3c7e22baf9e5396f6acc2aad09d8bb98\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Plutus-Dev\.gradle\caches\transforms-2\files-2.1\a2ae9b920f1257f286b7db526bcfd47f\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from D:\Wrokspace For Demo\Sliding menu\SlidingNavigationExample\example\src\main\AndroidManifest.xml:13:9-41
 	android:icon
